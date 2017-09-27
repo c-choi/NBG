@@ -91,4 +91,8 @@ for i in start:
         print("검색 결과가 없습니다")
         quit()
 print(search_word + "에 대한 네이버 쇼핑 검색결과 입니다")
-os.system("open -a 'Microsoft Excel.app' '%s'" %file_path)
+try:
+    os.system("start excel.exe '%s'" %file_path)
+except:
+    os.system("open -a 'Microsoft Excel.app' '%s'" %file_path)
+
