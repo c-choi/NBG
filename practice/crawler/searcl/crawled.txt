@@ -1,7 +1,0 @@
-http://www.searcl.com
-http://www.searcl.com#about
-http://www.searcl.com#contact
-http://www.searcl.com#home
-http://www.searcl.com#info
-http://www.searcl.com#news
-http://www.searcl.com#review
