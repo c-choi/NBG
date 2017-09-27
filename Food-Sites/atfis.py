@@ -11,8 +11,13 @@ url = 'https://www.atfis.or.kr/business/M002040000/list.do?searchTopIndustry=ALL
       '&searchBusinessNm=' + str(comp_name) + '&searchProductItem=' + str(keyword) \
       + '&x=0&y=0'
 
-driver = webdriver.Chrome('/Users/cloudy/anaconda/lib/python3.6/site-packages/selenium/chromedriver')
-driver.get(url)
+try:
+    driver = webdriver.Chrome('C:\\Users\Admin\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\selenium\chromedriver.exe')
+    driver.get(url)
+except:
+    driver = webdriver.Chrome('/Users/cloudy/anaconda/lib/python3.6/site-packages/selenium/chromedriver')
+    driver.get(url)
+
 driver.implicitly_wait(3)
 
 html = driver.page_source
