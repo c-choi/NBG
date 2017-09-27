@@ -9,9 +9,12 @@ from pprint import pprint
 comp_name = input("회사명을 입력해주세요: ")
 keyword = input("검색어를 입력해주세요: ")
 url = 'http://www.foodsafetykorea.go.kr/portal/specialinfo/searchInfoHaccpCompany.do?menu_grp=MENU_NEW04&menu_no=2816'
-
-driver = webdriver.Chrome('/Users/cloudy/anaconda/lib/python3.6/site-packages/selenium/chromedriver')
-driver.get(url)
+try:
+    driver = webdriver.Chrome('C:\\Users\Admin\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\selenium\chromedriver.exe')
+    driver.get(url)
+except:
+    driver = webdriver.Chrome('/Users/cloudy/anaconda/lib/python3.6/site-packages/selenium/chromedriver')
+    driver.get(url)
 
 driver.implicitly_wait(1)
 button = '//*[@id="wrap"]/main/section/div[2]/div[1]/div/fieldset/ul/li[5]/a'
