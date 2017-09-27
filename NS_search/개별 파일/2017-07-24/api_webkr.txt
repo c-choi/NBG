@@ -1,0 +1,128 @@
+{
+"lastBuildDate": "Mon, 24 Jul 2017 08:46:55 +0900",
+"total": 74664213,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "Behance Developer Documentation :: Overview",
+"link": "http://www.behance.net/dev",
+"description": "Portfolio블로그Behance <b>API</b>포트폴리오 리뷰 주간크리에이티브 채용 팁앱 Behance... Behance <b>API</b> 포트폴리오 리뷰 주간 크리에이티브 채용 팁 앱 한국어... "
+
+},
+{
+"title": "Flickr 서비스",
+"link": "https://www.flickr.com/services/api/",
+"description": "<b>API</b> 메소드 activity flickr.activity.userComments flickr.... 제작 <b>API</b> 문서 구독 App Garden이란 무엇입니까? Flickr <b>API</b>는 외부 개발자가 비상업적 용도로 사용할... "
+
+},
+{
+"title": "<b>API</b> - 나무위키",
+"link": "https://namu.wiki/w/API",
+"description": "<b>API</b>는 소프트웨어 컴포넌트의 기능(Function, Method, Operation 으로... <b>API</b> 자체는 어디까지나 &quot;사양(Specification)&quot;만을 정의하기 때문에 구현(Implementation)물과 독립적이다. 잘 설계된 <b>API</b>는 프로그램 개발을... "
+
+},
+{
+"title": "What is <b>API</b> - Application Program Interface? Webopedia",
+"link": "http://www.webopedia.com/TERM/A/API.html",
+"description": "The application program interface (<b>API</b>) specifies how software components interact and are used when programming graphical user interface components."
+
+},
+{
+"title": "Interface_de_programmation",
+"link": "https://fr.wikipedia.org/wiki/Interface_de_programmation",
+"description": "voir <b>API</b> . En informatique , une interface de programmation applicative (souvent désignée par le terme <b>API</b> pour... Sommaire 1 Description 2 Utilisation 3 Le marché 4 Exemples d'<b>API</b> 4.1... "
+
+},
+{
+"title": "<b>API</b>",
+"link": "https://ru.wikipedia.org/wiki/API",
+"description": "аббревитуру <b>API</b>, см. Американский институт нефти . <b>API</b> ( интерфейс... a pplication p rogramming i nterface , <b>API</b> [эй-пи-ай] [1] )... "
+
+},
+{
+"title": "커리어넷 Open <b>API</b> 센터",
+"link": "http://www.career.go.kr/cnet/front/openapi/openApiMainCenter.do",
+"description": "커리어넷 오픈 <b>API</b> 커리어넷의 진로정보 서비스와 콘텐츠를... 오픈 <b>API</b> 신청 커리어넷 OpenAPI 및 아이프레임(iframe)을 이용하시려면... 오픈 <b>API</b> 서비스 목록 직업정보 학과정보 주니어직업정보 학교정보... "
+
+},
+{
+"title": "<b>API</b> – Last.fm",
+"link": "http://www.last.fm/api",
+"description": "The Last.fm <b>API</b> allows anyone to build their own programs using Last.fm data, whether they're... fm <b>API</b>. Here's what you need to get going: Get an <b>API</b> account Read the documentation Join... "
+
+},
+{
+"title": "Introduction | Blogger | Google Developers",
+"link": "https://developers.google.com/blogger/",
+"description": "The Blogger APIs enable client applications to view and update Blogger content."
+
+},
+{
+"title": "Termux:<b>API</b> - Google Play의 Android 앱",
+"link": "https://play.google.com/store/apps/details?id=com.termux.api&hl=ko",
+"description": "The Termux:<b>API</b> add-on provides command line access to device <b>API</b>:s: * Read and send sms... termux-<b>api</b> See the following documentation about available <b>API</b> commands: https://termux.com/add-on... "
+
+},
+{
+"title": "<b>API</b> Overview : Tech Center : NPR",
+"link": "http://www.npr.org/api/",
+"description": "<b>API</b> Overview An <b>API</b>, or Application Programming Interface, is a way for two computer... NPR's <b>API</b> is a content <b>API</b>, which essentially provides a structured way for other computer... "
+
+},
+{
+"title": "NAVER Developers - 네이버 오픈 <b>API</b> 상태",
+"link": "https://developers.naver.com/notice/apistatus/",
+"description": " "
+
+},
+{
+"title": "Daum 지도 Web <b>API</b>",
+"link": "http://apis.map.daum.net/web/",
+"description": "Daum 지도 <b>API</b>를 이용해보세요. 다양한 샘플과 상세한 매뉴얼로 개발자분들의 시간을 아껴드리겠습니다!"
+
+},
+{
+"title": "빗썸 - 대한민국 1등 가상화폐 거래소",
+"link": "https://www.bithumb.com/u1/US127",
+"description": "비트코인, 이더리움, 라이트코인, 리플 등 가상화폐 거래방법, 실시간시세, 회원가입시 무료코인 지급, 쉽고 안전한 거래."
+
+},
+{
+"title": "maniadb.com <b>api</b> :: maniadb.com",
+"link": "http://www.maniadb.com/api/",
+"description": "MANIADB REST <b>API</b> : SEARCH v0.5 1. Request url: http://www.maniadb.com/<b>api</b>/search/[keyword]/?sr=[artist|album... com/<b>api</b>/search/metallica/?sr=artist&amp;display=10&amp;key=example&amp;v=0.5 http://www.maniadb.com/<b>api</b>/search/metallica/?sr... "
+
+},
+{
+"title": "YouTube | Google Developers",
+"link": "https://developers.google.com/youtube/",
+"description": "Integrate YouTube videos and functionality into your website or application."
+
+},
+{
+"title": "Amazon <b>API</b> Gateway",
+"link": "https://aws.amazon.com/ko/api-gateway/",
+"description": "제품 및 서비스 Amazon <b>API</b> Gateway  제품 세부 정보  요금  시작하기  FAQ  무료로 시작하기 무료 계정 생성 Amazon <b>API</b> Gateway Amazon <b>API</b> Gateway는 어떤 규모에서든 개발자가 <b>API</b>를 손쉽게 생성... "
+
+},
+{
+"title": "NAVER Developers - 네이버아이디로로그인 개요",
+"link": "https://developers.naver.com/docs/login/overview/",
+"description": "지도 JS <b>API</b> v2는 2017년 12월 11일(월)부터는 이용하실 수 없습니다.... 오픈 <b>API</b> 이용 신청 &gt; 네이버 아이디로 로그인을 통해 로그인하는... 발급받은 접근 토큰을 이용해 OAuth 2.0을 지원하는 네이버의 오픈 <b>API</b>를... "
+
+},
+{
+"title": "アプリケーションプログラミングインタフェース",
+"link": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9",
+"description": "MediaWikiに対して使える<b>API</b>については、MediaWikiの解説ページをご覧ください。アプリケーションプログラミングインタフェース(<b>API</b>、... <b>API</b>には、サブルーチン、データ構造、オブジェクトクラス、... "
+
+},
+{
+"title": "제휴 OPENAPI 제공(OpenApi 다운로드 제공)",
+"link": "http://www.nsmall.com/NSOpenApi?catalogId=14051&langId=-9&storeId=13001",
+"description": "Open <b>API</b> 제공 NS홈쇼핑 입점을 위해 제공하는 Open <b>API</b> 입니다. 관련하여 추가 문의 내용은itcs... OPEN <b>API</b> 패밀리사이트 주소 : 경기도 성남시 분당구 삼평동 625번지 판교세븐벤처밸리 1단지... "
+
+}
+]
+}

@@ -1,0 +1,148 @@
+{
+"lastBuildDate": "Mon, 28 Aug 2017 10:22:40 +0900",
+"total": 45,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "라면의 탄생",
+"link": "http://terms.naver.com/entry.nhn?docId=3378525&cid=58364&categoryId=58364",
+"description": "국내외 <b>업체</b>가 자유롭게 사용할 수 있도록 제조특허 독점을 포기한 안도 회장 삼양식품, 日... 좋아하니 <b>고춧가루</b>를 더 넣어보면 어떨까? 위기를 기회로 만든 라면 1989년 우지파동, 공업용 쇠기름 사용 보도로... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4402_000_1/20160427192702201_ZY80SGY54.jpg/ad11_1_i1.jpg?type=m160_160"
+
+},
+{
+"title": "김치",
+"link": "http://terms.naver.com/entry.nhn?docId=553745&cid=46672&categoryId=46672",
+"description": "또 황과담저법(黃瓜淡菹法)은 오이의 3면에 칼자리를 넣고 속에 <b>고춧가루</b>· 마늘을 넣어서 삭히고... 전문<b>업체</b>들도 생겼으며, 최근에는 인터넷으로 주문한 김치를 담가 배달해 주는 <b>업체</b>도 생겨났다.",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2644_000_8/20150327150325628_8Z8H8RTCV.jpg/7820d78c-8cd4-47.jpg?type=m160_160"
+
+},
+{
+"title": "된장국",
+"link": "http://terms.naver.com/entry.nhn?docId=1820013&cid=48163&categoryId=48200",
+"description": "요즘 식품<b>업체</b>에서 만드는 것은 대부분 현대식 제조법으로 만들기 때문에 재래식 전통 된장과는 맛이... 된장국에 고추장을 된장의 삼분의 일쯤 풀거나 <b>고춧가루</b>를 넣으면 칼칼해진다. 이 때 물엿이 많이... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/1741_000_1/20130108160100943_HWY6EFH21.jpg/fe41_29_i1.jpg?type=m160_160"
+
+},
+{
+"title": "라면",
+"link": "http://terms.naver.com/entry.nhn?docId=1051961&cid=48179&categoryId=48238",
+"description": "실제로 그는 자신이 개발한 인스턴트 라면의 제조특허 등을 독점하지 않고 국내외 <b>업체</b>에 자유롭게... “한국 사람은 맵고 짠 것을 좋아하니 <b>고춧가루</b>가 좀 더 들어갔으면 좋겠군.” [맵고 짠 한국식 라면의... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2177_000_1/20160621161034884_IFZQXEPAC.jpg/aa8_20_i1.jpg?type=m160_160"
+
+},
+{
+"title": "진안군 특산물",
+"link": "http://terms.naver.com/entry.nhn?docId=3406775&cid=58387&categoryId=58387",
+"description": "2 | | ③ 주요 생산단지(<b>업체</b>) | 진안군홍삼한방주식회사 | 진안 마이산공동사업법인... 두꺼워 <b>고춧가루</b> 생산이 많으며 저장성과 신선도가 유지. ② 진안홍삼 : 청정지역에서 재배하여 향이 진하고 사포닌... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4408_000_1/20160629113449820_OXEB8JDRK.jpg/fa9_70_i1.jpg?type=m160_160"
+
+},
+{
+"title": "음성군 특산물",
+"link": "http://terms.naver.com/entry.nhn?docId=3406749&cid=58387&categoryId=58387",
+"description": "생산단지(<b>업체</b>) | - | 맹동, 대소 | 원남, 금왕 | 감곡 | 금왕 | - | [지역 특산물 추천 사유] ① 수박... ② 고추 : 매운 맛과 향기가 강하여 고추 특유의 맛을 느낄 수 있으며, 껍질이 두꺼워 <b>고춧가루</b>가 많이... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4408_000_1/20160629113350775_IBV9N4FBJ.jpg/fa9_44_i2.jpg?type=m160_160"
+
+},
+{
+"title": "양구 파프리카",
+"link": "http://terms.naver.com/entry.nhn?docId=3570480&cid=58987&categoryId=58987",
+"description": "그 뛰어난 맛 덕에 양구의 파프리카는 상당량이 호텔 식당과 대형 외식<b>업체</b> 등에 직거래되고 있다.... 그 색이 고와 각종 식품에 파프리카 가루를 쓰고 있는데, 가끔 질 떨어지는 <b>고춧가루</b>에 이 파프리카... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4749_000_1/20170118131130219_BTR8FER67.jpg/1-1_236.jpg?type=m160_160"
+
+},
+{
+"title": "인제 곰취나물",
+"link": "http://terms.naver.com/entry.nhn?docId=3567438&cid=58987&categoryId=58987",
+"description": "최근 외식<b>업체</b>에서 이 곰취절임을 고기쌈용으로 내놓는 일이 부쩍 늘고 있다. 또 곰취를 소금에 절였다가 젓갈, <b>고춧가루</b>, 마늘 등의 양념을 하여 김치로 담가 먹기도 한다. 곰취를 삶아 말린 묵나물을 팔기도... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4749_000_1/20170116193042792_0OZD8Q5W4.jpg/Untitled-8.jpg?type=m160_160"
+
+},
+{
+"title": "파스타",
+"link": "http://terms.naver.com/entry.nhn?docId=1051964&cid=48179&categoryId=48243",
+"description": "김치에 당연한 듯 들어가는 <b>고춧가루</b>가 실은 18세기에야 우리나라에 전래되어 지금의 모습이 된... 그러다 네덜란드ㆍ영국계 생활용품 <b>업체</b>인 유니레버(Unilever)가 ‘라구(Ragu)’라는 브랜드로 파스타 소스를... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2177_000_1/20160621161129750_UQXG7RML3.jpg/aa8_23_i1.jpg?type=m160_160"
+
+},
+{
+"title": "신송홀딩스(주)",
+"link": "http://terms.naver.com/entry.nhn?docId=3342595&cid=43167&categoryId=43167",
+"description": "1995년 7월 천안 삼곡리에 <b>고춧가루</b> 분쇄공장 및 저온 저장창고를 준공했다. 2008년 1월 신송식품의... 식품<b>업체</b>에 공급된다. 또 다른 주력 자회사인 신송식품은 간장, 고추장, 된장 등의 장류제품을 생산... ",
+"thumbnail": ""
+
+},
+{
+"title": "그리스의 이주정착 가이드",
+"link": "http://terms.naver.com/entry.nhn?docId=2082617&cid=48572&categoryId=48572",
+"description": "□ 이사화물 화물은 아테네 인근 피레우스 항에서 통관하며 현지 통관의 경우 이삿짐 운송<b>업체</b>의... 특히 <b>고춧가루</b>, 통조림 깻잎, 마른 오징어, 안주용 건조해산물, 젓갈류, 김치액젓, 당면, 비빔면... ",
+"thumbnail": ""
+
+},
+{
+"title": "이집트의 생활 여건",
+"link": "http://terms.naver.com/entry.nhn?docId=2086825&cid=48621&categoryId=48621",
+"description": "이밖에 맥도널드나 배스킨라빈스, 하디스, 피자헛, KFC와 같은 다국적 외식산업 <b>업체</b>의 진출도... 한국 <b>고춧가루</b>(현지 <b>고춧가루</b>가 있으나 우리 것보다 상당히 매움), 간장(슈퍼에 샘표 간장이 있으나... ",
+"thumbnail": ""
+
+},
+{
+"title": "방글라데시의 이주정착 가이드",
+"link": "http://terms.naver.com/entry.nhn?docId=2081042&cid=48557&categoryId=48557",
+"description": "상사 주재원이나 현지 투자 <b>업체</b> 직원은 3개월 비자를 받아 입국하여 입국 후 노동 허가서... 범위에서 <b>고춧가루</b>, 액젓 등 김장용 재료 ㅇ 음용수 용 보리, 결명자 등 ㅇ 쌀(단, 현지에서도... ",
+"thumbnail": ""
+
+},
+{
+"title": "페루의 생활여건",
+"link": "http://terms.naver.com/entry.nhn?docId=2073062&cid=48551&categoryId=48551",
+"description": "□ 의료보험 현지 내 민간의료보험<b>업체</b>는 Pacifico, Rimac, Mapfre 등이 있으며, 모든 현지... 그러나 미리 문의해 컨테이너 통관시기에 맞추면 한국식품(고추장, <b>고춧가루</b>, 된장 등) 구매가 가능하며... ",
+"thumbnail": ""
+
+},
+{
+"title": "영양군",
+"link": "http://terms.naver.com/entry.nhn?docId=567583&cid=46618&categoryId=46618",
+"description": "만든 <b>고춧가루</b>·고추장도 더불어 유명하다. 영양더덕은 토심이 30∼50㎝ 정도의 모래참흙에서 퇴비와... 제조업 현황을 살펴보면 음식료품제조<b>업체</b> 4개, 비금속광물 제품제조<b>업체</b> 4개 모두 8개 <b>업체</b>에서 연간... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2644_000_8/20150327211012127_8F9USMWKB.jpg/79f06a42-d4d8-42.jpg?type=m160_160"
+
+},
+{
+"title": "기장군",
+"link": "http://terms.naver.com/entry.nhn?docId=551448&cid=46618&categoryId=46618",
+"description": "볶은 <b>고춧가루</b> 뿌리기 등을 들 수 있다. 이방행사로는 정월 보름의 새삼 퇴치·뱀 퇴치·두더지 퇴치... 이에 기계·자동차부품 관련업종을 중심으로 20여 개 <b>업체</b>가 있다. 장안읍 고리에는 원자력발전소가... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2644_000_6/20170814200552035_5W4CSJDEJ.jpg/46261f3b-cdeb-41.jpg?type=m160_160"
+
+},
+{
+"title": "러시아 출장 시 유의 및 참고사항",
+"link": "http://terms.naver.com/entry.nhn?docId=2085325&cid=48626&categoryId=48626",
+"description": "민간<b>업체</b>가 아닌 우체국 우편은 모두 모스크바를 경유해서 배달되기 때문에 시간이 다소 많이... 멸치, <b>고춧가루</b> 등은 유통되지 않는다. 이에 반해 극동지역의 경우 한국 음식이 많이 유통되어 한국... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2976_000_1/20140603202436260_VGBMYPIBE.jpg/gb235_60_i1.jpg?type=m160_160"
+
+},
+{
+"title": "PD",
+"link": "http://terms.naver.com/entry.nhn?docId=1691634&cid=42266&categoryId=42276",
+"description": "음식을 주문했다면 완성품의 맛을 보면 되지, 굳이 주방 안으로 들어가 소금이나 <b>고춧가루</b>의 양을... 대행사 소속 PD가 광고주와 대행사의 입장에서 일을 한다면, PD프로덕션의 PD는 협력<b>업체</b> 입장에서 일을... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2157_000_1/20130205220911775_9K4U069FX.jpg/m77_s2.jpg?type=m160_160"
+
+},
+{
+"title": "모로코의 생활여건",
+"link": "http://terms.naver.com/entry.nhn?docId=2087060&cid=48611&categoryId=48611",
+"description": "무, 배추, 상추, <b>고춧가루</b> 등 한국 채소는 아가딜에 거주하는 한국 교민이 자체 재배해 일부... 발송료는 서비스<b>업체</b>에 따라 다소 차이가 있으나, 평균적으로 최소요금인 0.5Kg까지는 80불, 1Kg까지는... ",
+"thumbnail": ""
+
+},
+{
+"title": "수산업",
+"link": "http://terms.naver.com/entry.nhn?docId=558887&cid=46631&categoryId=46631",
+"description": "생선을 토막친 뒤에 소금·조밥·무·<b>고춧가루</b> 등을 넣고 버무려 삭힌 음식)나 젓갈과 같은... 더욱이 수산업 사<b>업체</b> 중에는 어선을 사용하지 않는 어선 비사용 사<b>업체</b>도 많았다. 1980년에 실시된 제2차 총 어업... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2644_000_5/20170526170339705_MPZQ5X2SO.jpg/a5df94fd-544e-40.jpg?type=m160_160"
+
+}
+]
+}

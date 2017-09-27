@@ -1,0 +1,168 @@
+{
+"lastBuildDate": "Mon, 28 Aug 2017 10:22:39 +0900",
+"total": 7791,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "농업회사법인 ㈜두영에프앤디, ‘딜리셔스 포크 갈릭 육포’ 등 2종 출시",
+"originallink": "http://www.foodtvnews.com/view.php?ud=201708251859016384faa62d0a6_11",
+"link": "http://www.foodtvnews.com/view.php?ud=201708251859016384faa62d0a6_11",
+"description": "이번에 선보인 '딜리셔스 포크 갈릭 육포'는, 튀긴 마늘과 국내산 <b>고춧가루</b>로 한국인의 입맛에 맞는 매운맛을... <b>업체</b> 관계자는 &quot;이 제품들은 현재 이마트24(구 위드미 편의점) 편의점에서 판매되고 있으며, 높아지는... ",
+"pubDate": "Mon, 28 Aug 2017 09:02:00 +0900"
+
+},
+{
+"title": "“요즘 누가 김치 담그나...포장김치 사먹지”",
+"originallink": "http://www.econovill.com/news/articleView.html?idxno=321479",
+"link": "http://www.econovill.com/news/articleView.html?idxno=321479",
+"description": "27일 시장조사 회사 링크아즈텍에 따르면 대상과 CJ제일제당, 올반 등 3개 <b>업체</b>의 김치 판매 규모는 2015년... 소금, <b>고춧가루</b> 첨가 여부와 양을 고를 수 있다. 액젓과 <b>고춧가루</b> 양에 따라 어떤 맛을 더할 수 있는지 간략한... ",
+"pubDate": "Sun, 27 Aug 2017 10:12:00 +0900"
+
+},
+{
+"title": "[시선강탈] '그알' 미입주 아파트 살인사건, 용의자 교수의 수상한 행적과 진...",
+"originallink": "http://tvdaily.asiae.co.kr/read.php3?aid=15037837591271554002",
+"link": "http://tvdaily.asiae.co.kr/read.php3?aid=15037837591271554002",
+"description": "2005년 6월 16일, 청소<b>업체</b> 아르바이트생 김민혁(가명) 씨는 전단지를 붙이러 서울 성북구의 한 미입주... 부검 당시 위장에서 <b>고춧가루</b>, 밥알, 채소, 양파, 당근 등이 발견된 것으로 보아 살해당하기 전 식사를 한 것으로... ",
+"pubDate": "Sun, 27 Aug 2017 06:45:00 +0900"
+
+},
+{
+"title": "[똑! 기자 꿀! 정보] 바다 영양을 모두 품었다…제철 전복",
+"originallink": "http://news.kbs.co.kr/news/view.do?ncd=3538726&ref=A",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=056&aid=0010497700",
+"description": "&lt;인터뷰&gt; 임민용(수산물 판매<b>업체</b> 직원) : &quot;2~3년 정도 자란 중간 크기의 전복은 1Kg에 20마리, 가격은 3만 4천 원... 고추장에 <b>고춧가루</b>와 설탕 넣고요. 식초와 매실 농축액도 적당량 넣습니다. 믹서에 마늘과 생강, 양파와 고추... ",
+"pubDate": "Thu, 24 Aug 2017 09:03:00 +0900"
+
+},
+{
+"title": "먹거리 파동",
+"originallink": "http://news.chosun.com/site/data/html_dir/2017/08/17/2017081701638.html",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=004&oid=023&aid=0003307223",
+"description": "김장철이면 톱밥에 색깔을 입힌 '톱밥 <b>고춧가루</b>' 기사가 나왔고, 소고기 무게를 늘리기 위해 물을 먹이는... 브라질 닭 파동은 브라질에서 30여 개의 대형 육가공<b>업체</b>가 부패한 닭고기의 냄새를 없애기 위해 사용 금지된... ",
+"pubDate": "Wed, 23 Aug 2017 08:42:00 +0900"
+
+},
+{
+"title": "프렌차이즈 창업 배부장찌개, 차별화된 컨셉·시스템으로 경쟁력 갖춰",
+"originallink": "http://www.kidd.co.kr/news/195466",
+"link": "http://www.kidd.co.kr/news/195466",
+"description": "<b>업체</b> 관계자는 “모든 요리는 본사인 맛있는 F&amp;B의 지속적인 식재료에 대한 연구와 개발로 인해 탄생했다. 특히 김치찌개는 배부장찌개만의 특별 <b>고춧가루</b>가 첨가되어 우러난 칼칼하고 시원한 국물이 기존의 김치찌개와는... ",
+"pubDate": "Tue, 22 Aug 2017 15:47:00 +0900"
+
+},
+{
+"title": "'굽네치킨' 날개 단 지앤푸드, 분식사업 진출",
+"originallink": "http://www.mt.co.kr/view/mtview.php?type=1&no=2017082115314978919&outlink=1",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=008&aid=0003923092",
+"description": "경기 김포시 전용 떡공장에서 뽑은 떡과 국내산 태양초 <b>고춧가루</b>를 사용한 떡볶이 소스 등으로 만든... 기존 분식 프랜차이업계를 주도해 온 주요 <b>업체</b>들이 최근 부진을 겪고 있는 점은 가맹사업에 호재가 될... ",
+"pubDate": "Tue, 22 Aug 2017 15:20:00 +0900"
+
+},
+{
+"title": "폭염·폭우 채솟값 급등에 “김치 사 먹는 게 싸다”",
+"originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=03125846616029944",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0003903905",
+"description": "포장김치는 김치 제조<b>업체</b>들이 계약 재배를 통해 싼값에 많은 양의 채소를 공급받기 때문에 가격 등락이... 김치 양념을 만들 때 쓰는 <b>고춧가루</b>, 마늘, 양파 등도 소폭이지만 오름세를 이어가고 있다. 시장조사기관... ",
+"pubDate": "Tue, 22 Aug 2017 15:14:00 +0900"
+
+},
+{
+"title": "직접 농사지은 먹거리로 눈길, 풍경은 '덤'",
+"originallink": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002353120",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=047&aid=0002159887",
+"description": "햄버거 병에 이어 살충제 품은 달걀까지, 경기도 양주의 한 <b>업체</b>에서 만들었다는 콩국은 세균이 우글거렸다.... 고소한 풍미가 작렬하는 국내산 참기름과 들기름, 참깨볶음, 들깨가루, <b>고춧가루</b> 등의 양념류도 있다. 물론... ",
+"pubDate": "Tue, 22 Aug 2017 14:26:00 +0900"
+
+},
+{
+"title": "팽현숙, 옛날 순댓국에 이어 순대곱창볶음까지 인기몰이",
+"originallink": "http://www.sjpost.co.kr/news/articleView.html?idxno=19366",
+"link": "http://www.sjpost.co.kr/news/articleView.html?idxno=19366",
+"description": "팽현숙 옛날 순댓국은 HACCP 인증된 <b>업체</b>에서 안전하고 깨끗하게 생산된 순대로만 순댓국을 만들며... 돈골 육수 700g 10팩 세트, 총 20인분 분량으로 판매되며, 순대 280g 5팩과 양념 <b>고춧가루</b> 100g 1병... ",
+"pubDate": "Tue, 22 Aug 2017 12:11:00 +0900"
+
+},
+{
+"title": "매운 ‘김치전쟁’…신세계푸드도 본격 가세",
+"originallink": "http://news.heraldcorp.com/view.php?ud=20170822000473",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=016&aid=0001280157",
+"description": "<b>업체</b>별 점유율(2016년 기준)은 대상 종가집이 53.7%를 차지하며 김치시장 왕좌를 차지했다. CJ제일제당... 얼갈이, <b>고춧가루</b>를 사용했다. 여기에 잘 말린 황태로 만든 특제 황태 육수를 베이스로 사용해 시원하고 깔끔한... ",
+"pubDate": "Tue, 22 Aug 2017 11:24:00 +0900"
+
+},
+{
+"title": "농업법인 오미나라 국내외 명성…진남·문경미소·산양한과도 주목",
+"originallink": "http://www.yeongnam.com/mnews/newsview.do?mode=newsView&amp;newskey=20170822.010120736130001",
+"link": "http://www.yeongnam.com/mnews/newsview.do?mode=newsView&amp;newskey=20170822.010120736130001",
+"description": "문경의 대표적 특산품이 오미자인 만큼 6차산업화 인증 <b>업체</b>는 모두 오미자를 주원료나 첨가제로 사용하고... 전남 신안 비금도의 천일염을 비롯해 문경에서 생산되는 <b>고춧가루</b>·오미자·콩·사과 등 친환경 재료만... ",
+"pubDate": "Tue, 22 Aug 2017 07:46:00 +0900"
+
+},
+{
+"title": "'PB초콜릿부터 4000만원 '꼬냑'까지'..호텔 이색 추석선물세트",
+"originallink": "http://www.newspim.com/news/view/20170821000167",
+"link": "http://www.newspim.com/news/view/20170821000167",
+"description": "빈투바는 초콜릿 원재료인 카카오빈의 재배부터 로스팅, 서빙되는 바(bar)까지, 모든 과정을 아우르는 <b>업체</b>... 찬 어울림 세트, 안면도 <b>고춧가루</b>와 제주 깨소금, 볶음 참깨 세트도 선보인다. 웨스틴조선호텔 관계자는... ",
+"pubDate": "Mon, 21 Aug 2017 17:02:00 +0900"
+
+},
+{
+"title": "귀한분께 정성스러운 선물&quot; 호텔가, 추석 선물세트 '각양각색'",
+"originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=02561686616029616",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=018&aid=0003902872",
+"description": "(사진=롯데호텔)  10월 추석 연휴를 한 달여 앞두고 호텔<b>업체</b>들이 다양한 추석선물세트를 내놓고 있다.... 이어 호무랑 쌀(米)세트(5만원), 안면도 <b>고춧가루</b>와 제주 깨소금, 볶음참깨 세트(6만5000원, 이상 서울... ",
+"pubDate": "Mon, 21 Aug 2017 11:48:00 +0900"
+
+},
+{
+"title": "[세상보기] 무엇을 먹을까 고민하는 사회",
+"originallink": "http://www.daejonilbo.com/news/newsitem.asp?pk_no=1276557",
+"link": "http://www.daejonilbo.com/news/newsitem.asp?pk_no=1276557",
+"description": "맞벌이 부부가 증가하면서 외식<b>업체</b> 및 배달음식을 많이 이용하고 있다. 그러다 보니 부모나 아이 모두... 이밖에 기생충이 있다는 김치, 톱밥이 섞여 있다는 <b>고춧가루</b>, 농약으로 기른 콩나물 등 참으로 많은 식품과... ",
+"pubDate": "Sun, 20 Aug 2017 13:55:00 +0900"
+
+},
+{
+"title": "봉화군 홍고추 888t 수매",
+"originallink": "http://www.imaeil.com/sub_news/sub_news_view.php?news_id=37431&yy=2017",
+"link": "http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=088&aid=0000503186",
+"description": "한편, 지난 2011년 사업비 84억원을 들여 조성한 봉화고추종합처리장은 해썹(HACCP`식약처안전관리인증) 시설을 갖추고 세척 청결<b>고춧가루</b>를 생산해 CJ프레시웨이 등 식품<b>업체</b>와 홈쇼핑을 통해 판매하고 있다.... ",
+"pubDate": "Fri, 18 Aug 2017 00:10:00 +0900"
+
+},
+{
+"title": "봉화군, 계약재배 홍고추 수매 개시",
+"originallink": "http://www.kyongbuk.co.kr/?mod=news&act=articleView&idxno=1001628",
+"link": "http://www.kyongbuk.co.kr/?mod=news&act=articleView&idxno=1001628",
+"description": "자부담을 포함해 총사업비 84억 원을 투입, 지난 2011년 준공했으며 해썹(HACCP:식약청안전관리인증) 시설 등 최첨단 시설을 갖추고 세척 청결<b>고춧가루</b>를 생산해 CJ프레시웨이 등 식품<b>업체</b>와 홈쇼핑을 통해 판매한다.",
+"pubDate": "Thu, 17 Aug 2017 01:31:00 +0900"
+
+},
+{
+"title": "봉화군, 홍고추 수매 시작",
+"originallink": "http://www.hidomin.com/news/articleView.html?idxno=336149",
+"link": "http://www.hidomin.com/news/articleView.html?idxno=336149",
+"description": "해썹(HACCP 식약청안전관리인증) 시설 등 최첨단 시설을 갖추고 세척 청결<b>고춧가루</b>를 생산, CJ프레시웨이 등 식품<b>업체</b>와 홈쇼핑 등을 통해 판매하고 있다. 박노욱 군수는 &quot;올해는 우박 피해와 불안정한 기후로 작황이... ",
+"pubDate": "Thu, 17 Aug 2017 00:01:00 +0900"
+
+},
+{
+"title": "봉화군 홍고추 수매 개시 출하약정 체결 242농가 888t",
+"originallink": "http://www.idaegu.com?c=3&uid=368836",
+"link": "http://www.idaegu.com?c=3&uid=368836",
+"description": "원을 투입해 지난 2011년 준공됐으며, 해썹(HACCP·식약청안전관리인증) 시설 등 최첨단 시설을 갖추고 세척 청결<b>고춧가루</b>를 생산해 CJ프레시웨이 등 식품<b>업체</b>와 홈쇼핑을 통해 판매한다. 박완훈 기자 pwh0413@idaegu.com",
+"pubDate": "Wed, 16 Aug 2017 20:43:00 +0900"
+
+},
+{
+"title": "봉화군 계약재배 홍고추 수매...내달 30일까지",
+"originallink": "http://www.anewsa.com/detail.php?number=1207197&thread=09r02",
+"link": "http://www.anewsa.com/detail.php?number=1207197&thread=09r02",
+"description": "자부담을 포함해 총사업비 84억원을 들여 지난 2011년 준공됐다. 해썹(HACCP:식약청안전관리인증) 시설 등 최첨단 시설을 갖추고 세척 청결<b>고춧가루</b>를 생산하여 CJ프레시웨이 등 식품<b>업체</b>와 홈쇼핑을 통해 판매한다.",
+"pubDate": "Wed, 16 Aug 2017 19:21:00 +0900"
+
+}
+]
+}

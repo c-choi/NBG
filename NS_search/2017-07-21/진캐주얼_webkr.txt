@@ -1,0 +1,128 @@
+{
+"lastBuildDate": "Fri, 21 Jul 2017 03:49:10 +0900",
+"total": 842410,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "싸니까 믿으니까 인터파크 쇼핑",
+"link": "http://www.interpark.com/displaycategory/CooperationMall.do?_method=1Depth&sc.shopNo=0000100000&sc.dispNo=001960013002",
+"description": " 홈 쇼핑바로가기 도서 티켓 투어 아이마켓 로그인 회원가입 장바구니 마이페이지 고객센터 판매자매니저 Language 홈 대구백화점 이지/<b>진캐주얼</b> 이지/<b>진캐주얼</b> 이지캐주얼 <b>진캐주얼</b> 2)NII... "
+
+},
+{
+"title": "남성캐주얼 「ZIPPO」 <b>진캐주얼</b>로!",
+"link": "https://www.fashionbiz.co.kr/article/view.asp?idx=109034",
+"description": "신명글로빅스(대표 최원준 www.zippo.co.kr)이 전개하는 남성캐주얼 「지포」가 올 하반기부터 빈티지 컨셉의 중가 <b>진캐주얼</b> 브랜드로 재탄생한다. 라이터로 유명한 「지포」로부터 세계 최초로 의류 라이선스를 받아 캐주 "
+
+},
+{
+"title": "<b>진캐주얼</b> 「FRJ」 110호 매장 확보",
+"link": "http://www.fashionbiz.co.kr/TN/main.asp?idx=153116&cate=2",
+"description": "에프알제이(대표 성창식)의 컨템포러리 데님 브랜드 「FRJ」가 1분기 만에 올해 목표였던 110호 매장 확보를 조기 달성했다. 오는 4월 오픈을 앞두고 있는 110호 매장은 NC백화점 강서점에 자리할 예정이다. 에프알제이는 지"
+
+},
+{
+"title": "한 발 앞선 패션 전문지, 패션채널",
+"link": "http://www.fashionchannel.co.kr/main09/news.php?table=papernews&query=view&uid=4915",
+"description": "<b>진캐주얼</b>은 스타일리쉬 캐주얼 브랜드와 달리 고급스러운 디테일과 컬러감으로 차별화해 시크한 스타일링을 완성함으로써 가격이 다소 높은 단점을 보완했다. <b>진캐주얼</b>에서 출시한 야상점퍼는... "
+
+},
+{
+"title": "www.shopopen.co.kr/m_manager/manager_view.asp?id=41091",
+"link": "http://www.shopopen.co.kr/m_manager/manager_view.asp?id=41091",
+"description": "타깃 : 18세 ~ 35세 컨셉 : 정제되고 세련된 도시적 무드를 denim과 접목시킨 <b>캐주얼</b> 현재 유통망 : 할인점, 아울렛 제품가격대 : denim pants 29,000~59,000 woven pants 39,000~5,000 jumper 69,000~229... "
+
+},
+{
+"title": "블랙진 판매직 - <b>진캐주얼</b> 브랜드 블랙진에서 세이브존 노원점 중간관리자님을 찾습니다. - 샵마넷",
+"link": "http://www.shopma.net/job/shop10_read.asp?class=06&id=546736",
+"description": "근무지역 : 서울 노원구"
+
+},
+{
+"title": "<b>진캐주얼</b>매장...둘째구하시는분없으신가요?",
+"link": "http://www.shopma.net/talk/diary/shop10_readdiary.asp?num=32323",
+"description": "<b>진캐주얼</b>매장...둘째구하시는분없으신가요? 판매직전문구인구직_샵마넷 ShopMa.net 의류,잡화,화장품,악세사리,귀금속,준보석,장신구,가전,가구,침구,인테리어,외식,식품,자동차,판매직,판매직원,판매사원"
+
+},
+{
+"title": "[브랜드마케팅]<b>진캐주얼</b> 1위브랜드 ‘리바이스(Levi's)’ 마케팅전략 분석 및 차 ",
+"link": "http://www.reportworld.co.kr/doc/575180",
+"description": "[브랜드마케팅]<b>진캐주얼</b> 1위브랜드 ‘리바이스(Levi's)... (1) <b>진 캐주얼</b> 시장 (2) 시장 활성화 위한 존별 대책마련필요 (3) 마켓... 리바이스마케팅, <b>진캐주얼</b>, 청바지, 리바이스 마케팅전략보문... "
+
+},
+{
+"title": "<b>진캐주얼</b> 주력 아이템 공개",
+"link": "http://www.koreafashion.org/info/info_news_view.asp?clientIdx=9331",
+"description": "등 <b>진캐주얼</b> 리딩 브랜드들이 올 가을 시즌 광고 비주얼과 함께 주요 아이템을 공개했다. ‘캘빈클라인진’은 이번 시즌 익스트림 스키니 핏 ‘캘빈클라인 엑스 진’ 출시와 함께 스타일 아이콘에 여성... "
+
+},
+{
+"title": "ns shopping mall",
+"link": "http://www.nsmall.com/webapp/wcs/stores/servlet/CategoryDisplay?cate1Code=301501&cate2Code=20162&storeId=13001&langId=-9&catalogId=23651&cate3Code=21289&menuUri=NSSubCategoryPageLayoutView&categoryId=21289",
+"description": "<b>진캐주얼</b> 전체보기 MLB 게스 버커루 캘빈클라인진 상세검색 총2,615건 신상품 베스트... 캐쥬얼 <b>진캐주얼</b> 여성의류남성의류캐쥬얼스포츠레져뷰티샵패션잡화슈즈/주얼리유아동홈... "
+
+},
+{
+"title": "라붐 솔빈, <b>진캐주얼</b> 브랜드 전속 모델 발탁 - 한국경제TV",
+"link": "http://www.wowtv.co.kr/newscenter/news/view.asp?artid=A201412300156",
+"description": "6인조 걸그룹 라붐 멤버 솔빈이 배우 박서준에 이어 오리엔탈 유니크 <b>진</b> 브랜드 에비수(EVISU)의 모델로 발탁됐다.라붐에서 보컬을 맡고 있는 솔빈은 귀여운 외모와 개성 강한 매력으로.."
+
+},
+{
+"title": "<b>진 캐주얼</b> 새 모델 확정",
+"link": "http://www.koreafashion.org/info/info_news_view.asp?clientIdx=9926",
+"description": "HOME 패션정보 패션뉴스 패션뉴스 목록 <b>진 캐주얼</b> 새 모델 확정 글쓴이 :관리자 날짜 :2011-02-01 번호 : <b>진 캐주얼</b> 새 모델 확정 CKJ’, ‘리바이스’, ‘게스’, ‘버커루’ 등 리딩 <b>진캐주얼</b> 브랜드들의... "
+
+},
+{
+"title": "한국패션협회 KFA &gt; 패션정보 &gt; 패션뉴스",
+"link": "http://koreafashion.org/info/info_news_view.asp?clientIdx=8055",
+"description": "HOME 패션정보 패션뉴스 패션뉴스 목록 <b>진캐주얼</b>, 여성 프리미엄 진 시장 공략 s 글쓴이 :관리자 날짜 :2009-08-04 번호 : <b>진캐주얼</b>, 여성 프리미엄 진 시장 공략 <b>진캐주얼</b> 업체들이 올 가을 여성 진에... "
+
+},
+{
+"title": "인터파크",
+"link": "http://www.interpark.com/display/sellerAllProduct.do?_method=event&sc.entrNo=3002773006&sc.supplyCtrtSeq=1&sc.evtNo=176096",
+"description": " 홈 &gt; EVENT FOCUS ZONE &gt;[대구백화점]가을 데님패션 STYLING"
+
+},
+{
+"title": "한 발 앞선 패션 전문지, 패션채널",
+"link": "http://www.fashionchannel.co.kr/main09/news.php?table=papernews&query=view&uid=5389",
+"description": "패션채널 본지기사&gt;유통&gt;Up &amp; Down 이전페이지로 <b>진캐주얼</b> 2년 연속 역신장…상위권 부진 1위... 1스트리트 캐주얼의 ‘슈퍼루키’ 2스몰 비즈니스, 소중(小衆)한 소비자를 위해! 3사드 후폭풍, POST... "
+
+},
+{
+"title": "달샤벳, <b>진캐주얼</b> 브랜드 모델 발탁 '완벽 뒷태+아찔 각선미' :: THE STAR",
+"link": "http://thestar.chosun.com/site/data/html_dir/2015/08/12/2015081200796.html",
+"description": "달샤벳, <b>진캐주얼</b> 브랜드 모델 발탁 '완벽 뒷태 아찔 각선미'"
+
+},
+{
+"title": "스톤진 중간관리 정보 BLACK JEANS에서 중간관리 모집(상봉엔터,송파NC,노원세이브)",
+"link": "http://www.shopopen.co.kr/m_manager/manager_view.asp?id=82891",
+"description": "본사소개 : 합리적인 가격대의 <b>진캐주얼</b>로 백화점및 대리점 영업을 강화할 계획이며 패션비즈및 한국섬유신문에 광고기재중 2. 컨 셉 : 다이나믹 진 3. 타 깃 : Main Age - 10대 후반 ~ 30대 Sub Age - 30대... "
+
+},
+{
+"title": "印刷媒體 廣告를 통한 新世代 <b>진캐주얼</b> 衣裳디자인에 관한 硏究",
+"link": "http://www.nl.go.kr/nl/search/SearchDetail.nl?service=KOLIS&vdkvgwkey=763520&colltype=DAN_DMDP",
+"description": "표제/저자사항 印刷媒體 廣告를 통한 新世代 <b>진캐주얼</b> 衣裳디자인에 관한 硏究 / 朴惠淑 박혜숙 발행사항 서울:弘益大學校,1995 형태사항 viii,88장: 삽도,도판; 26cm 주기사항 학위논문(석사) -- 홍익대학교... "
+
+},
+{
+"title": "[서울신문] <b>진캐주얼</b> 패션? ‘블루핏’에 물어봐",
+"link": "http://www.seoul.co.kr/news/newsView.php?id=20050513062001",
+"description": "‘진(청바지)패션이 다시 돌아오고 있다.’ 패션계의 복고 바람과 불황이 맞물리면서 유행을 타기 시작한 <b>진캐주얼</b> 패션이 올 들어 ‘열풍’을 일으키고 있다.특히 젊은 소비자들 사이에는 20만∼30만원대 프리미엄급 진"
+
+},
+{
+"title": "킬미힐미 '박서준', <b>캐주얼</b> <b>진</b> 브랜드 '에비수' 전속 모델 발탁",
+"link": "http://www.metroseoul.co.kr/news/newsview?newscd=2014121900130",
+"description": "월비통상(대표 손주익)에서 전개 중인 <b>캐주얼</b> <b>진</b> 브랜드 '에비수(evisu)'가 2015년 브랜드의 새 모델에 키이스트 소속의 배우 박서준을 발탁했다고 19일 밝혔다. 박서준은 영화 '악의 연대기' '뷰티 인사이드'에 참여하고 있 "
+
+}
+]
+}

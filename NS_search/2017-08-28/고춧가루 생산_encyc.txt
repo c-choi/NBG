@@ -1,0 +1,148 @@
+{
+"lastBuildDate": "Mon, 28 Aug 2017 10:22:12 +0900",
+"total": 246,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "봉양농업협동조합 <b>고춧가루</b> 가공공장 (제천)",
+"link": "http://terms.naver.com/entry.nhn?docId=2628924&cid=51893&categoryId=53855",
+"description": "직원은 6명으로 공기와 스팀, 물에 의한 세척과 자외선 살균, 절구 가공 등 첨단 가공법을 도입하여 <b>고춧가루</b>를 <b>생산</b>하고 있다. 1998년 국제 표준화 기구인 ISO 9002 품질 인증을 획득한 후 매운 맛과 덜 매운... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/3764_000_1/20150316022847618_4ZEEYC33C.jpg/GC033P0448.jpg?type=m160_160"
+
+},
+{
+"title": "음성농업협동조합 청결<b>고춧가루</b>가공공장 (음성)",
+"link": "http://terms.naver.com/entry.nhn?docId=2620222&cid=51892&categoryId=53804",
+"description": "고추 <b>생산</b>에 앞장서고 있다. [건립경위] 음성농업협동조합 청결<b>고춧가루</b>가공공장은 충청북도 음성군 지역 특산물의 안전한 가공을 통하여 특산물의 명성을 이어 가고 지역 소득원 증대를 위해 건립되었다.... ",
+"thumbnail": ""
+
+},
+{
+"title": "진안군 특산물",
+"link": "http://terms.naver.com/entry.nhn?docId=3406775&cid=58387&categoryId=58387",
+"description": "두꺼워 <b>고춧가루 생산</b>이 많으며 저장성과 신선도가 유지. ② 진안홍삼 : 청정지역에서 재배하여 향이 진하고 사포닌 성분이 높아 항암효과에 탁월한 인삼을 증숙한 후 건조, 숙성시킴. ③ 수박 : 주·야간... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4408_000_1/20160629113449820_OXEB8JDRK.jpg/fa9_70_i1.jpg?type=m160_160"
+
+},
+{
+"title": "가루매마을",
+"link": "http://terms.naver.com/entry.nhn?docId=2031297&cid=42856&categoryId=42856",
+"description": "김장체험을 시작으로 매년 주민들이 직접 <b>생산</b>한 <b>고춧가루</b>ㆍ배추ㆍ무 등 농산물을 활용하여 체험을 운영하고 있으며, 김장체험 뿐만 아니라 농산물을 가공한 장아찌ㆍ쌀 등 안전한 먹거리도 구매할 수... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2818_000_19/20170313043334989_OSDYYKIVR.jpg/2480263_image2_1.jpg?type=m160_160"
+
+},
+{
+"title": "봉하산촌마을",
+"link": "http://terms.naver.com/entry.nhn?docId=2031274&cid=42856&categoryId=42856",
+"description": "마을에서 <b>생산</b>한 <b>고춧가루</b>, 참깨 등의 믿을 수 있는 양념만을 이용하기에 맛은 더욱 좋아진다. 가을에 재배해 수확한 국산콩을 삶아 메주를 만들고 청국장도 띄운다. 또 돼지를 우리에 가두는 것도 겨울철에 할... ",
+"thumbnail": ""
+
+},
+{
+"title": "특산물 (진안)",
+"link": "http://terms.naver.com/entry.nhn?docId=2689831&cid=51949&categoryId=55183",
+"description": "진안 고추는 표면 빛깔이 붉고 광택이 나며 과피가 단단하고 두꺼워 <b>고춧가루</b>가 많이 <b>생산</b>되는 특징이 있다. 또한 저장성과 신선도 유지가 적절하게 조화되어 전통의 우리 고추 맛을 그대로 간직하고 있다. 4.... ",
+"thumbnail": ""
+
+},
+{
+"title": "향토 음식 (진안)",
+"link": "http://terms.naver.com/entry.nhn?docId=2690163&cid=51949&categoryId=55183",
+"description": "고추 일교차가 큰 청정 고지에서 자연 그대로 재배·<b>생산</b>되는 진안 고추는 표면 빛깔이 붉고 광택이 나며 과피가 단단하고 두꺼워 <b>고춧가루</b>가 많이 <b>생산</b>되며 저장성과 신선도 유지가 적절하게 조화되어 전통의... ",
+"thumbnail": ""
+
+},
+{
+"title": "아우내 전통 고추장 (천안)",
+"link": "http://terms.naver.com/entry.nhn?docId=2571746&cid=51930&categoryId=54213",
+"description": "아우내 전통 고추장은 천안시에서 <b>생산</b>한 <b>고춧가루</b>, 메줏가루, 찹쌀, 보리쌀, 엿기름을 사용하여 전통 방식으로 만드는 고추장이다. [연원 및 변천] 우리나라에서 고추장을 제조하게 된 것은 고추가 전래된... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/3764_000_1/20150123224906537_SH1AA0TC0.jpg/GC045P03301.jpg?type=m160_160"
+
+},
+{
+"title": "원조 할매 낙지볶음 (부산)",
+"link": "http://terms.naver.com/entry.nhn?docId=2826303&cid=55779&categoryId=56266",
+"description": "<b>고춧가루</b>는 친척이 <b>생산</b>하는 안동산 <b>고춧가루</b>를 쓰고 있다. 창업주의 딸인 이민길[현 대표]이 물려받아 2대째 운영하고 있으며, 현재 아들이 일을 배우고 있어 3대째로 이어질 전망이다. 몇 년 전만 해도... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/3764_000_4/20150718140618113_C4I45EVX0.jpg/GC042P25263.jpg?type=m160_160"
+
+},
+{
+"title": "성가정 종합 식품 (순창)",
+"link": "http://terms.naver.com/entry.nhn?docId=2828347&cid=55683&categoryId=55689",
+"description": "복흥과 쌍치에서 <b>생산</b>된 무와 배추를 사용하고 지하 암반수를 이용해 제품을 <b>생산</b>한다. <b>고춧가루</b>는 순창에서 재배한 태양초 고추만을 사용하고 젓갈은 전라북도 부안 곰소에서 1년 반 이상 저온 숙성된... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/3764_000_4/20150719055012413_YCJZKNOHW.jpg/GC059P02462.jpg?type=m160_160"
+
+},
+{
+"title": "풍산김치 (안동)",
+"link": "http://terms.naver.com/entry.nhn?docId=2604564&cid=51934&categoryId=54450",
+"description": "[제조방법 및 특징] 100% 우리 농산물로 제품을 <b>생산</b>하며, <b>고춧가루</b>는 청결 <b>고춧가루</b>로 전량 농가 수매 후 청결<b>고춧가루</b>공장에서 임가공한 것을 사용한다. 조미료는 사용하지 않으며, 물은 지하 154m... ",
+"thumbnail": ""
+
+},
+{
+"title": "어리굴젓",
+"link": "http://terms.naver.com/entry.nhn?docId=1179058&cid=40942&categoryId=32107",
+"description": "<b>고춧가루</b>를 사용한다는 것이 일반 굴젓과 다른 점이다. 충청도 지방에서도 서산, 당진, 예산, 간월도가 유명한데 특히 간월도에서 <b>생산</b>된 것은 왕에게 올리는 진상품으로 썼다고 전해진다. 어리굴젓을 만들 때... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2765_000_1/20131013123420036_NTBG7F9ME.jpg/32583.jpg?type=m160_160"
+
+},
+{
+"title": "수산업",
+"link": "http://terms.naver.com/entry.nhn?docId=558887&cid=46631&categoryId=46631",
+"description": "즉, 그 뒤부터는 정어리를 원료로 한 비식용 어유·비료·어분(魚粉) 등의 <b>생산</b>이 급증한 것이다. 정어리를 원료로 하고 토마토즙이나 <b>고춧가루</b>를 가미하여 만든 통조림인 토마토사딘(tomato sardine) 및... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2644_000_5/20170526170339705_MPZQ5X2SO.jpg/a5df94fd-544e-40.jpg?type=m160_160"
+
+},
+{
+"title": "장성 울산 김씨 김인후 종가 곶감배추김치",
+"link": "http://terms.naver.com/entry.nhn?docId=2207697&cid=48165&categoryId=48210",
+"description": "이 종가가 자리한 전남 장성은 예로부터 일교차가 커서 당도 높은 감을 <b>생산</b>하기로 유명한 지역이다. 그 때문에 이곳에서는 배추김치를 담글 때 홍시를 넣어 단맛을 내기도 한다. 박차임 종부는... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2804_000_1/20141113192001828_KQZ6S4MXO.jpg/fb47_2_i1.jpg?type=m160_160"
+
+},
+{
+"title": "웅어감정",
+"link": "http://terms.naver.com/entry.nhn?docId=1261062&cid=40942&categoryId=32136",
+"description": " 고추장과 <b>고춧가루</b>를 푼 물에 웅어, 표고버섯, 고추, 파 등을 넣고 끓인 음식.  웅어는 임금님이 드시던... 많이 <b>생산</b>된다고 기록하고 있으며 《송남잡지》에는 '위어는 행주에서만 나오므로 지금 사옹원이 이를... ",
+"thumbnail": ""
+
+},
+{
+"title": "늙은호박찌개",
+"link": "http://terms.naver.com/entry.nhn?docId=1260787&cid=40942&categoryId=32136",
+"description": " 소금에 절인 늙은 호박과 무청을 <b>고춧가루</b>로 버무려 항아리에 익히고 이것을 밥솥에 찐 후 화롯불에... 많이 <b>생산</b>되어 왔다. 충청도 사람들은 늙은호박을 이용하여 음식 만드는 것을 좋아해 호박죽이나 꿀단지... ",
+"thumbnail": ""
+
+},
+{
+"title": "청양 고추",
+"link": "http://terms.naver.com/entry.nhn?docId=3567696&cid=58987&categoryId=58987",
+"description": "또 ‘청양고추’의 최대 <b>생산</b>지는 경남 밀양이다. [ 품종별로 구별할 수 없는 고추의 맛 ] 고추는 크게 풋고추용 고추, <b>고춧가루</b>(홍고추)용 고추, 단고추(파프리카), 꽈리고추 등으로 나눈다. 청양의 주요 재배... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4749_000_1/20170116194144686_M4O5M6L5L.jpg/7_20.jpg?type=m160_160"
+
+},
+{
+"title": "논산 파평 윤씨 윤증 종가 장김치 · 가지소박이",
+"link": "http://terms.naver.com/entry.nhn?docId=2207700&cid=48165&categoryId=48210",
+"description": "신라 때의 가지 재배와 <b>생산</b>에 관한 기록으로 미루어 가지 식용의 역사는 꽤 오래되었다. 조선 말기의 조리서인 &#60;시의전서(是議全書)&#62;에도 가지김치 담그는 법이 다음과 같이 기록되어 있다. 가지을 거피... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/2804_000_1/20141113192549437_8G21N5KGD.jpg/fb47_6_i1.jpg?type=m160_160"
+
+},
+{
+"title": "향신료의 역사",
+"link": "http://terms.naver.com/entry.nhn?docId=3574462&cid=59022&categoryId=59022",
+"description": "마늘이 내는 강한 향기는 악귀나 액을 쫓는 힘을 갖고 있다고 여겨져, 복숭아, <b>고춧가루</b>와 함께 제사... 주<b>생산</b>지로 유럽에 널리 알려진 사프란(Safran)도 우리 나라에 소개된 지 얼마 되지 않는다. 또 지중해가... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/4749_000_1/20170118161340140_0WC61I4RS.jpg/1_502.jpg?type=m160_160"
+
+},
+{
+"title": "각 지방 음식의 특징 및 분류",
+"link": "http://terms.naver.com/entry.nhn?docId=955932&cid=48195&categoryId=48195",
+"description": "서울지역에서 직접 <b>생산</b>되는 산물은 별로 없으나 서울이 오랫동안 나라의 중심 도시였기 때문에 전국... · 안동헛제사밥: 제사음식처럼 <b>고춧가루</b>나 마늘을 쓰지 않고 각종 나물을 올려 집간장과 깨소금을 넣어... ",
+"thumbnail": "http://openapi-dbscthumb.phinf.naver.net/0940_000_1/20120229113201460_SCIQH18HP.jpg/fe15_2_i1.jpg?type=m160_160"
+
+}
+]
+}

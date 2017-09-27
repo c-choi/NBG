@@ -1,0 +1,103 @@
+1504256559056	geckodriver	INFO	geckodriver 0.18.0
+1504256559119	geckodriver	INFO	Listening on 127.0.0.1:50422
+1504256560395	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504256562183	Marionette	INFO	Listening on port 50435
+1504256562293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504256562411	Marionette	DEBUG	loaded listener.js
+1504256562444	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-09-01 18:02:42.476 plugin-container[9272:82802] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-01 18:02:42.476 plugin-container[9272:82802] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504256562722	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504256562722	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504256563214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cu.bgfretail.com/product/product.do?category=product&depth2=4&sf=N"
+1504256565151	Marionette	DEBUG	Received DOM event "pageshow" for "http://cu.bgfretail.com/product/product.do?category=product&depth2=4&sf=N"
+1504256611241	geckodriver	INFO	geckodriver 0.18.0
+1504256611284	geckodriver	INFO	Listening on 127.0.0.1:50521
+1504256612352	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504256613979	Marionette	INFO	Listening on port 50534
+1504256614030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504256614196	Marionette	DEBUG	loaded listener.js
+1504256614221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-09-01 18:03:34.259 plugin-container[9393:84800] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-01 18:03:34.259 plugin-container[9393:84800] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504256614500	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504256614501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504256614931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cu.bgfretail.com/product/product.do?category=product&depth2=4&sf=N"
+1504256616596	Marionette	DEBUG	Received DOM event "pageshow" for "http://cu.bgfretail.com/product/product.do?category=product&depth2=4&sf=N"
+1504256625633	Marionette	INFO	Ceased listening
+1504256655301	geckodriver	INFO	geckodriver 0.18.0
+1504256655346	geckodriver	INFO	Listening on 127.0.0.1:50626
+1504256656416	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504256658023	Marionette	INFO	Listening on port 50639
+1504256658084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504256658247	Marionette	DEBUG	loaded listener.js
+1504256658271	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-09-01 18:04:18.308 plugin-container[9493:86840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-01 18:04:18.309 plugin-container[9493:86840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504256658543	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504256658544	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://cu.bgfretail.com/js/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1504256659054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cu.bgfretail.com/product/product.do?category=product&depth2=4&sf=N"
+1504256660964	Marionette	DEBUG	Received DOM event "pageshow" for "http://cu.bgfretail.com/product/product.do?category=product&depth2=4&sf=N"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-09-01 18:24:08.959 plugin-container[12096:119129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-01 18:24:08.959 plugin-container[12096:119129] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1504258991587	Marionette	INFO	Ceased listening

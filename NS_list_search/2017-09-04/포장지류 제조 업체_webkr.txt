@@ -1,0 +1,128 @@
+{
+"lastBuildDate": "Mon, 04 Sep 2017 12:09:12 +0900",
+"total": 93,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "참가<b>업체</b>설명회자료(저용량).hwp",
+"link": "http://www.at.or.kr/download.action?attachId=20817",
+"description": "참가<b>업체</b> 설명회 및 세미나 <b>업체</b>별 온라인 등록 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 August sunday... 한국관 운영업무 및 참가<b>업체</b> 준수사항 10 4. 홍보계획 12 5. 전시품 운송 및 통관 13 6. 행사운영 16 7.... "
+
+},
+{
+"title": "미래산업으로 주목 받는 독일 재활용산업-산업·상품-kotra 해외시장뉴스",
+"link": "http://news.kotra.or.kr/user/globalBbs/kotranews/4/globalBbsDataView.do?setIdx=243&dataIdx=145138",
+"description": "99%, <b>포장지류</b> 81%로, 높은 재활용률을 나타냄. - 이와 같은 높은 재활용률은 재활용 산업 성장에... - 주요 가전제품별로 재활용 비율이 정해져 있으며, 유통<b>업체</b>와 <b>제조</b><b>업체</b>는 가정으로부터 폐가전제품을... "
+
+},
+{
+"title": "한국산 문구류, 호주시장 진출 가능성 높아-현장·인터뷰-kotra 해외시장뉴스",
+"link": "http://news.kotra.or.kr/user/globalBbs/kotranews/7/globalBbsDataView.do?setIdx=245&dataIdx=98803",
+"description": "선물<b>포장지류</b>임. 개인용 문구용품 세부 품목별 시장규모 (단위 : 천 호주달러) 구분 2009... ○ Typo와 kikki.K 사는 해외 디자이너 문구용품 전문 <b>제조</b><b>업체</b>로 호주 전역에 자사 브랜드... "
+
+},
+{
+"title": "해팩에 오신 것을 환영합니다:]",
+"link": "http://www.haepack.com/board/product/read.html?no=67&board_no=6",
+"description": "상품 Q&amp;A입니다."
+
+},
+{
+"title": "횡성 살인사건, 마대자루에서 40대 女 시신 발견..'경찰 수사 착수' | 마이클럽",
+"link": "https://www.miclub.com/board/viewArticle.do?artiNo=108783879",
+"description": "강원 횡성의 하천 인근에서 마대자루에..."
+
+},
+{
+"title": "해팩에 오신 것을 환영합니다:]",
+"link": "http://www.haepack.com/shopinfo/company.html",
+"description": "포장기계류 포장용기류 <b>포장지류</b> 주방기계류 육가공기기및 수산물가공기 전자저울기계... 포장재료등 <b>제조</b>하는 <b>업체</b>로서 신용과 신속한 서비스로서 고객 여러분 에게 한발 더 다가서고... "
+
+},
+{
+"title": "독일, 폐기물 재활용 사업 발달해",
+"link": "https://www.eishub.or.kr/nationinfo/worldInfo_view.asp?idx=65906&area=3&brdId=env_market",
+"description": "99, <b>포장지류</b> 81로 재활용률이 상당히 높음. 또한 독일 지방자치단체에서 발생하는 전체... 전기·전자제품 <b>제조</b><b>업체</b> 또는 수입 유통<b>업체</b>는 독일 내에 전기·전자제품 유통 시, 제품 등록... "
+
+},
+{
+"title": "KT&amp;G(033780) &gt; 기업 &gt; 사업내용 :: 씽크풀",
+"link": "http://www.thinkpool.com/itemanal/i/analysis/reporting.jsp?code=033780",
+"description": "(4) 경쟁요소 담배판매점들의 특별한 판촉노력 없이 <b>제조</b><b>업체</b>의 점포내에서의 한정된 판촉활동에 의하여 소비자에게 인지되고, 소비자는 품질과 가격에 의해 자율적인 선택이 가능합니다.... "
+
+},
+{
+"title": "팥빙수포장용기",
+"link": "http://www.ecofriendlyshop.co.kr/search.php?q=%ED%8C%A5%EB%B9%99%EC%88%98%ED%8F%AC%EC%9E%A5%EC%9A%A9%EA%B8%B0",
+"description": "100ps 그냥 메뉴를 쇼핑백.종이봉투.종이<b>포장지류</b> 빙수용기(대)100개(뚜껑포함)/일회용빙수그릇... • 식품의 합성수지 취급 <b>제조</b><b>업체</b>. 물품을 방법, 자동저울이나 1990년 것을 포장재료의 내장으로 <b>업체</b>였다.... "
+
+},
+{
+"title": "맞춤쇼핑백",
+"link": "http://www.tvnet.kr/search.php?k=%EB%A7%9E%EC%B6%A4%EC%87%BC%ED%95%91%EB%B0%B1",
+"description": "전화상담 횟집모조쇼핑백23호 상품 담임 ● 쇼핑백.종이봉투.종이<b>포장지류</b>&gt;종이쇼핑백 제작) 부직포... <b>제조</b><b>업체</b>입니다인천 훼손을 상품후기 2 0원 #비닐제작 쇼핑백_불문KP 분류 945원 주방용품 디에이지... "
+
+},
+{
+"title": "라우드소싱 - 누구나 개최하는 디자인 공모전",
+"link": "https://www.loud.kr/contest/list/end/industry-10/p-61",
+"description": "디자인이 필요할 때, 라우드소싱! 5만명의 디자이너에게 크라우드소싱 하세요."
+
+},
+{
+"title": "2014",
+"link": "http://www.kmia.or.kr/info_law/down2.html?number=915",
+"description": "46 (61) 식품, 축산물 <b>제조</b><b>업체</b> HACCP 적용에 관한 질의 ················ 46 (62) HACCP <b>업체</b> 원재료 구매에 관한 질의 ·································· 46 (63) 기기 검교정에 관한 질의... "
+
+},
+{
+"title": "포장용트레이",
+"link": "http://www.lkcar.co.kr/search.php?q=%ED%8F%AC%EC%9E%A5%EC%9A%A9%ED%8A%B8%EB%A0%88%EC%9D%B4",
+"description": "종이<b>포장지류</b> 밑으로 디자인한 (주)광진상사 기술자료 포장용으로 포장용 AZH-600ES 유지용 ChemLOCUS... 전문<b>제조</b><b>업체</b> 진공필림 있습니다. 소포장용 진공포장기 오신것을 활용해 제공 정보! 전체적으로는... "
+
+},
+{
+"title": "자동 랩포장기계 관련정보 여기서 확인",
+"link": "http://www.turnnturn.co.kr/search.php?k=%EC%9E%90%EB%8F%99+%EB%9E%A9%ED%8F%AC%EC%9E%A5%EA%B8%B0%EA%B3%84",
+"description": "주변지역 식품가공기계(<b>제조</b>) <b>업체</b>더보기 http://www.life114.co.kr/html/board/view.asp?M_SEQ=399598... 각종크립류외 자재 일절 취급<b>포장지류</b>더보기 http://ay21.co.kr/type6/item/showitem.php?car=15&amp;cate_no=15&amp;item_no=56... "
+
+},
+{
+"title": "OA2014_Q7_2033.pdf",
+"link": "http://www.nl.go.kr/app/nl/search/common/download.jsp?file_id=FILE-00008526467",
+"description": "재활용<b>업체</b> 현황, 가동실태 및 재활용폐기물 처리현황 조사... 단지 내 입주<b>업체</b> 및 사업자단체의 적정관리·운영방안... <b>업체</b>... "
+
+},
+{
+"title": "2014년 자주하는 질문집_식품분야_.pdf",
+"link": "http://mfds.go.kr/jsp/common/download.jsp?fileinfo=S*3*2014%B3%E2%20%C0%DA%C1%D6%C7%CF%B4%C2%20%C1%FA%B9%AE%C1%FD_%BD%C4%C7%B0%BA%D0%BE%DF_.pdf*e924222a785e4d06f691d8d0ad6f0477*pdf*/files/upload/1/TB_F_INFODATA/18402/e924222a785e4d06f691d8d0ad6f0477*1841950*2015:02:11%2013:33:31",
+"description": "24 <b>제조</b>․가공 기준 [2014년] 자주하는 질문(FAQ)집 (식품) iii (44) 연의 씨로 만든 가공품 <b>제조</b>가공... 식품소분<b>업체</b> 보관기준... "
+
+},
+{
+"title": "2015년 3분기 보고서.pdf",
+"link": "http://www.ktng.com/download?CMS_CD=CM0015&fnm=CM0015_52.pdf&orgFnm=2015%EB%85%84++3%EB%B6%84%EA%B8%B0+%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+"description": "대전광역시 대덕구 벚꽃길 71 인삼류 및 인삼제품의 <b>제조</b>와... 화공약품의 <b>제조</b>판매 등 178,968 지배회사 보유지분 50% 초과... 대전광역시 대덕구 읍내동 450-11 판상엽 <b>제조</b> 13,888 지배회사... "
+
+},
+{
+"title": "정보집.pdf",
+"link": "http://www.moel.go.kr/local/cheonan/download.jsp?type=bbs&file=%C1%A4%BA%B8%C1%FD.pdf",
+"description": "원료의약품 <b>제조</b>업(21101) 주요 사업내용 원료의약품 <b>제조</b> 경영규모 (단위: 백만원 / 2015) 총자산... 전선<b>제조</b>업(고무 및 합성수지 절연전선/28302) 주요 사업내용 고무 및 합성수지 절연전선의 <b>제조</b>... "
+
+},
+{
+"title": "2014 3분기보고서.pdf",
+"link": "http://www.ktng.com/download?CMS_CD=CM0015&fnm=CM0015_47.pdf&orgFnm=2014+3%EB%B6%84%EA%B8%B0%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+"description": "대전광역시 대덕구 벚꽃길 71 인삼류 및 인삼제품의 <b>제조</b>와... 화공약품의 <b>제조</b>판매 등 169,334 지배회사 보유지분 50% 초과... 대전광역시 대덕구 읍내동 450-11 판상엽 <b>제조</b> 13,213 지배회사... "
+
+},
+{
+"title": "이산화탄소 흡착기능의 바이오매스 친환경 식품 포장 용기 산업화를 위한 연구개발 기획(확정).pdf",
+"link": "http://rnd.ipet.re.kr/ipetUsr/cm/mdl/module/fileDownload.do?atchFileNo=PMSFILE0000000000000000001134325",
+"description": "필름을 <b>제조</b>하고 있으나, 현재 식품 포장 적용 사 례는 극히 일부임 § 주관기관의 중국... 식품 <b>업체</b> 및 미곡 처리장에서 배출되는 바이오매스의 양 수급의 어려움 극복 필요 ㉯ 국내... "
+
+}
+]
+}
