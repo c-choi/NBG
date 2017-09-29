@@ -1,0 +1,128 @@
+{
+"lastBuildDate": "Mon, 28 Aug 2017 10:22:12 +0900",
+"total": 164,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "고품질 녹색<b>고춧가루 생산</b>을 위한 풋고추 저장조건 및 건조방법",
+"link": "http://academic.naver.com/view.nhn?doc_id=185712943",
+"description": "Storage Condition and Drying Method of Green Hot Pepper for Producing High-quality Powder Green hot pepper (Capsicum annuum. L) is one "
+
+},
+{
+"title": "<b>고춧가루 생산</b>공정의 금속분(쇳가루)제거율향상 기술개발",
+"link": "http://academic.naver.com/view.nhn?doc_id=55263192",
+"description": " 1. 최종목표\n▷ 청결<b>고춧가루 생산</b> 공정 중 분쇄과정에서 첨가되는 쇳가루를 제거하는 공정의 효율 "
+
+},
+{
+"title": "수출용 고품질 <b>고춧가루 생산</b>을 위한 가공용 고추원료 건조시스템 개발(",
+"link": "http://academic.naver.com/view.nhn?doc_id=57490944",
+"description": ""
+
+},
+{
+"title": "대구ㆍ경북지역에서 <b>생산</b>ㆍ유통되는 <b>고춧가루</b>제품의 품질 모니터링 및 ",
+"link": "http://academic.naver.com/view.nhn?doc_id=55257680",
+"description": "Monitoring and Management for Standard Quality of red pepper powders in Daegu, Gyeongbuk area 우리나라 국민의 중요한 조미"
+
+},
+{
+"title": "대구.경북지역에서 <b>생산</b>. 유통되는 <b>고춧가루</b>제품의 품질 모니터링 및 관",
+"link": "http://academic.naver.com/view.nhn?doc_id=39182214",
+"description": "Monitoring and Management for Standard Quality of red pepper powders in Daegu, Gyeongbuk area 우리나라 국민의 중요한 조미"
+
+},
+{
+"title": "대구ㆍ경북지역에서 <b>생산</b>ㆍ유통되는 <b>고춧가루</b>제품의 품질 모니터링 및 ",
+"link": "http://academic.naver.com/view.nhn?doc_id=16572801",
+"description": "  표제지\n제출문\n목차\n연구결과 요약문 16\nProject Summary 17\n주관연구책임자 의견 18\n제1장 연구개발과제의"
+
+},
+{
+"title": "대형마트와 지역별 재래시장에서 판매하는 <b>고춧가루</b>의 위해물질에 관한",
+"link": "http://academic.naver.com/view.nhn?doc_id=153811293",
+"description": "Hazard analysis of regional red pepper powder collected from traditional market and supermarket 고추는 재배된 지역에 따라 "
+
+},
+{
+"title": "초음파를 이용한 감균 위생 <b>고춧가루</b> 제품개발",
+"link": "http://academic.naver.com/view.nhn?doc_id=55260875",
+"description": " 1. 최종목표\n■ 기존의 살균방법과 함께 최초 초음파를 이용한 김치용 <b>고춧가루</b> 감균 제품개발기술\n"
+
+},
+{
+"title": "GC-MS 분석에 의한 고추 품종별 및 시판<b>고춧가루</b>의 capsaicin 및 dihydrocapsaicin",
+"link": "http://academic.naver.com/view.nhn?doc_id=41447330",
+"description": "Determination of Capsaicin and Dihydrocapsaicin in Various Species of Red Peppers and Their Powdered Products in Market by GC-MS Analys"
+
+},
+{
+"title": "저온질소순환 건조방법에 의해 제조된 <b>고춧가루</b>의 품질 특성",
+"link": "http://academic.naver.com/view.nhn?doc_id=11332764",
+"description": "Characteristics of Red Pepper (Capsicum Annuum L.) Powder Using $N_2-Circulated$ Low Temperature Drying Method 본 논문은 &lt;TEX&gt;$N_{2"
+
+},
+{
+"title": "<b>고춧가루</b> 제조·가공업소 HACCP적용 일반모델 개발",
+"link": "http://academic.naver.com/view.nhn?doc_id=39073240",
+"description": "Development of HACCP generic model for powdered red pepper processing establishments 본 연구는 <b>고춧가루</b> 제조?가공업소의 "
+
+},
+{
+"title": "가시광선 및 근적외선 분광법을 이용한 <b>고춧가루</b> 품질 예측 기술 개발",
+"link": "http://academic.naver.com/view.nhn?doc_id=72353887",
+"description": "Development of quality prediction technique of red-pepper powder using visible and near-infrared spectroscopy  List of Figures\txi\nList "
+
+},
+{
+"title": "하수슬러지와 음식폐기물의 단상 혐기성 통합 소화 처리 시<b>고춧가루</b> 함",
+"link": "http://academic.naver.com/view.nhn?doc_id=289177432",
+"description": "Biogas Production Effect by addition of Red Pepper Powder through Single Stage Anaerobic Co-Biogasification of Mechanically Pre-treated"
+
+},
+{
+"title": "규제가 만든 과학, 갈등하는 법정 : <b>고춧가루</b> 원산지 판별의 법정논란을 ",
+"link": "http://academic.naver.com/view.nhn?doc_id=157467283",
+"description": "Creating the geographical origin of agricultural products : discourses on NIRS analysis in the courts 이 글은 농산물 원산지 "
+
+},
+{
+"title": "옥돌과 참숯을 이용한 <b>고춧가루</b> 제조방법",
+"link": "http://academic.naver.com/view.nhn?doc_id=1201110&applicationNumber=1020010039862",
+"description": "Method for manufacturing used hardwood charcoal and gem ston of a hot pepper 본 발명은 <b>고춧가루</b> 제조에 관한 것으로, 종"
+
+},
+{
+"title": "<b>고춧가루</b> 중 병원성 대장균 오염 측정 및 알콜처리와 UV조사시 저감화 효",
+"link": "http://academic.naver.com/view.nhn?doc_id=56383795",
+"description": " 국내에서 <b>생산</b> 유통 중인 <b>고춧가루</b>에서 병원성 대장균 오염도 조사를 실시하였다. 병원성 대장균의 "
+
+},
+{
+"title": "<b>고춧가루</b> 분쇄기 개발",
+"link": "http://academic.naver.com/view.nhn?doc_id=8801976",
+"description": "Development of a red-pepper crusher 본 연구는 금속성 이물질 발생이 적은 고품질의 <b>고춧가루</b>를 <b>생산</b> 할 수 있"
+
+},
+{
+"title": "국내 유통 <b>고춧가루</b>의 병원성 대장균 오염 및 대장균 저감화 방법",
+"link": "http://academic.naver.com/view.nhn?doc_id=56562600",
+"description": "Efficient Treatment Methods for Reducing Escherichia coli Populations in Commercially-Available Red Pepper Powder in Korea 국내에서"
+
+},
+{
+"title": "품종 및 재배년도에 따른 <b>고춧가루</b>의 Capsaicinoid와 Ascorbic acid의 성분 분석",
+"link": "http://academic.naver.com/view.nhn?doc_id=77861536",
+"description": "Variations in capsaicinoids and ascorbic acid contents in pepper powder with cultivar and crop year 고추(capsicum annuum L.)는 화"
+
+},
+{
+"title": "국균(麴菌)의 효소<b>생산</b>(酵素生産) 및 생육(生育)에 미치는 <b>고춧가루</b>의 영",
+"link": "http://academic.naver.com/view.nhn?doc_id=14765229",
+"description": "Studies on the Effects of Red Pepper Powder on the Enzyme Production and Growth of Aspergillus Oryzae <b>고춧가루</b>가 국균(麴菌)의"
+
+}
+]
+}

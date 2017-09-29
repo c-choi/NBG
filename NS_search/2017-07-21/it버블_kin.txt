@@ -1,0 +1,128 @@
+{
+"lastBuildDate": "Fri, 21 Jul 2017 11:23:16 +0900",
+"total": 3551,
+"start": 1,
+"display": 20,
+"items": [
+{
+"title": "<b>IT 버블</b>이 무슨 사건이죠??",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=35097054&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=1&search_sort=0&spq=0",
+"description": "... (금리인상을 통한 긴축정책이라고 해석하시면 되겠네요) 이러한 상황속에 99년이 지나, 2000년이 되자, 결국 증시는 계속해서 과열되게 되며, 이러한 증시의 과열로 인해 증시의 붕괴가 일어납니다.이 상황을 &quot;<b>it버블</b>&quot; 이라고... "
+
+},
+{
+"title": "<b>it버블</b>이 뭐죠?",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=404&docId=34187145&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=2&search_sort=0&spq=0",
+"description": "제가 지금 반도체에 대해 공부중인데요 2000년도에 <b>it버블</b>이 일어나서 수요가 급격히 줄었던데;;;<b>it버블</b>이 몬가요 ? 자료를 검색해도 쉽게 나오질 않네요; IT산업에 대한 기대치라던가 주가등이 거품을 형성하는 겁니다. 과대평가... "
+
+},
+{
+"title": "테크 <b>버블</b>",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=273557182&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=3&search_sort=0&spq=0",
+"description": "... 너무 높기 때문에 곧 폭락한다 라는 뭐 그런 개념이죠. 실제로 2000년대 초반 &quot;닷컴<b>버블</b>&quot;로 인해 <b>IT</b>, 인터넷 관련주가 폭등을 했었죠. 하지만 얼마 못가 다시 급락을 하게 되고, 수많은 기업들이 문을 닫게 되었습니다. 감사합니다 ^^ "
+
+},
+{
+"title": "서브프라임 모기지 내용을 영작좀 해주실분",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=11&dirId=11080303&docId=255276070&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=4&search_sort=0&spq=0",
+"description": "2000년대 초반 <b>IT버블</b> 붕괴, 911테러, 아프간/이라크 전쟁 등으로, 美 경기가 악화되자 이에 미국은 경기부양책으로 초 저금리 정책을 펼쳤다. 이에 따라 주택융자 금리가 인하되었고 그러자... "
+
+},
+{
+"title": "서브프라임 모기지 사태에 대해서",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=40102&docId=277870790&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=5&search_sort=0&spq=0",
+"description": "... 요약 2000년 초반 <b>IT버블</b> 붕괴, 911테러 등으로 미국 경기 약화 전세계 투자은행 및 펀드 매니저들은 저위험, 고소득 투자처 물색. 결국 CDO를 찾아냄. 당시 CDO는 프라임 고객이 주를 이루었으며 40%의 수익률을 안정적으로 보장하고 90... "
+
+},
+{
+"title": "세계 경제에 관해서 질문있습니다.",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=131855869&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=6&search_sort=0&spq=0",
+"description": "... 그런데 막상 21세기(2000년)이 지나도 세상이 뒤집어지지는 않았습니다.게다가 밀레니엄버그에 대한 우려등도 투자심리에 영향을 미치면서 21세기에 대한 환상이 깨지기 시작했고,<b>IT버블</b>이 붕괴되었습니다.그런데, 밀레니엄 버블로... "
+
+},
+{
+"title": "여러가지 경제상식.",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=408&docId=141204424&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=7&search_sort=0&spq=0",
+"description": "... 1980년 말 부동산위기 와 <b>IT버블</b>의 붕괴 사건에 대해서 자세한 설명 부탁드려요. 질문이 많죠....? 고등학생이다 보니까 모르는게 너무 많네요 ㅠㅠ 소중한 답변 기다리겠습니다. 1. 사실 다양한 요인들이 복합적으로 작용해서 미국의... "
+
+},
+{
+"title": "우리나라 최초의 펀드는 몃년도에 생겼나요?",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=40102&docId=272992276&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=8&search_sort=0&spq=0",
+"description": "... 2000년 정보기술(<b>IT</b>) <b>버블</b>이 꺼지면서 주식시장이 침체하며 펀드의 수익률도 곤두박질쳤다. 바이코리아 펀드는 수익률이 -70%에 이를 정도였다. 2001~현재 자산관리의 중심에 서다 2001년 미국의 9·11테러는 세계 증권시장을... "
+
+},
+{
+"title": "경기 순환 호황기,후퇴기,불황기,회복기에 맞는 각각의... ",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=264203786&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=9&search_sort=0&spq=0",
+"description": "... 98년 이후에 2000년 정도까지 예년에 비해 높은 성장률이 나타나는데, 이 시기가 속칭 '닷컴 버블'(닷컴 호황, <b>IT 버블</b>)로 불리는 시기입니다. 90년대 중반에 MS 의 Windows95가 출시된 이후, 사회 시스템이 IT 를 중심으로 재구축되는... "
+
+},
+{
+"title": "20년전 일본경제 붕괴와 지금 미국 서브프라임모기지로... ",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=109043669&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=10&search_sort=0&spq=0",
+"description": "... 미국은 <b>it 버블</b> 붕괴와 9.11 테러로 경제의 침체왔던 시기였는데요 이 침체를 벋어나기 위해 당시 FRB(미연방은행) 의장인 앨런 그린스펀이 초 저금치 정책을 운용하기 시작합니다 이 정책은 상당히 성공적이었고 이 후 미국경기는... "
+
+},
+{
+"title": "<b>버블</b>러브 가사좀...",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=13&dirId=130403&docId=202971147&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=11&search_sort=0&spq=0",
+"description": "... let <b>it</b> pop(<b>버블</b>러브 네버 렛 잇 팝) 길거리를 걷다가도 아침밥을 먹다가도 피곤해서 졸다가도 니 생각만 나 방송을 하다가도 가사를 쓰다가도 노래를 부를때도 니 생각만 나 쓰라린 내게도 이젠 봄이 왔으니 저... "
+
+},
+{
+"title": "스무디or<b>버블</b>티",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=13&dirId=13050403&docId=216208062&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=12&search_sort=0&spq=0",
+"description": "... 가격은 pet <b>it</b>:5500원, original 6500원, power 7500원 입니다. 저는 스무디가 제일 좋더라고요 영양공급도 되고 일단 맛있으니까요 하지만 비싸서 못 드시겠다면 <b>버블</b>티를 드시면 되는데 품질성은 스무디가 더 안전합니다 이상 허접... "
+
+},
+{
+"title": "서브프라임 모기지론에서",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=35133784&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=13&search_sort=0&spq=0",
+"description": "... 2001년 이후에 미국은 <b>IT 버블</b> 침체로 경기둔화가 일어납니다. 이에 그린스펀은 경기 진작을 위해 5%에 달하던 금리를 1% 대로 낮춰버립니다. 이에 시중에 화폐유동성이 풍부해지면서 부동산과 증시에 많은 돈이 몰립니다. 금융업계들도... "
+
+},
+{
+"title": "<b>버블</b>붕괴를 왜 예측할 수 없나요?",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=185655839&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=14&search_sort=0&spq=0",
+"description": "<b>버블</b>붕괴를 정확하게 예측할 수 없는 이유가 무엇인가요? 그것이 <b>버블</b>인지 아닌지 알 수가... <b>It</b> is impossible to not think the economy without the bubble. Anyway, why couldn't economists predict the bubble... "
+
+},
+{
+"title": "서브프라임모기지사태와 글로벌경제위기...",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=409&docId=36049662&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=15&search_sort=0&spq=0",
+"description": "... 2001년 <b>IT버블</b>붕괴이후 미 경제 침체에 맞써 중앙은행이 금리를 대폭적으로 낮췄죠..이로인해 대출금리가 많이 싸지고 집값도 많이 싸지자 대출자 및 금융권은 이때다 싶어서 모기지에 엄청나게 혈안이 된거죠..대출자들은... "
+
+},
+{
+"title": "<b>버블</b>시스터즈에 대해서 . .",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=13&dirId=13040101&docId=36746037&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=16&search_sort=0&spq=0",
+"description": "우연히 <b>버블</b>시스터즈 노래를 듣게 되어서 공식홈에 들어가 보았는데요. [ 이게바로 그 호기심... <b>It</b> goes global. Not only koreans will see <b>it</b> but people of other races will also see <b>it</b> too. =&gt;이것은 세계로... "
+
+},
+{
+"title": "경제 침체가 뭔가요?",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=408&docId=225446444&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=17&search_sort=0&spq=0",
+"description": "... 한편 투자변동에 의해 경기침체가 유발되는 경우도 있는데 2000년의 미국 <b>IT버블</b> 붕괴에 따른 경기침체는 윈도우라는 새로운 PC운영체제의 출시에 대비한 IT기업들의 설비투자 과잉에 기인하였습니다. 또한 1970년대에 발생했던 제 1,2차... "
+
+},
+{
+"title": "<b>버블</b>러브가사",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=3&dirId=302&docId=108067997&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=18&search_sort=0&spq=0",
+"description": "<b>버블</b>러브가사중에서 조용스.....그리고mc몽 앞부분가사있잔항요 그부분도 정확하게... blow <b>it</b> away 걱정거리들 모두 밀어내 너와 나의 약속 서로를 위로해 마치 엄마 약손 바로 치료돼 널 사랑해 너보다 값진 건 없어 널... "
+
+},
+{
+"title": "<b>버블</b>러브 가사좀 알려주세요",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=13&dirId=130403&docId=107383197&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=19&search_sort=0&spq=0",
+"description": "... 다들 엠씨몽의 <b>버블</b>러브 아실꺼에요 제가 그노래 가사를 보다보니까 영어 가사 만아서 영어 발음을 한글로... blow <b>it</b> away 걱정 거리들 모두 밀어내 너와 나의 약속 서로를 위로해 마치 엄마 약손 바로 치료돼 서인영 ) 널 사랑해... "
+
+},
+{
+"title": "은행주식 금리 관계",
+"link": "http://kin.naver.com/qna/detail.nhn?d1id=4&dirId=40102&docId=261986594&qb=aXTrsoTruJQ=&enc=utf8&section=kin.qna&rank=20&search_sort=0&spq=0",
+"description": "... 금융주와 금리의 차트를 보면, 지난 <b>IT버블</b> 붕괴때 금리를 내리니까 경기가 부양돼서 주가가 반등을 합니다. 그리고 호경기때는 경기가 좋으니까 금리를 올려도 대출이 많이 일어나고 따라서 은행주는 실적이 개선 되면서 계속... "
+
+}
+]
+}

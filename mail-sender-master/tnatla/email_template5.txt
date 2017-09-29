@@ -1,0 +1,77 @@
+From: {{FROM_NAME}} <{{FROM_MAIL}}>
+Reply-To: <{{FROM_MAIL}}>
+To: <{{TO_MAIL}}>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=frontier
+Subject: {{SUBJECT}}
+
+--frontier
+Content-Type: text/plain;
+charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+안녕하세요.
+주식회사 놀부 구매팀 최찬입니다.
+
+매장 실사 일정을 보내드리오니 확인 부탁드리겠습니다.
+각 스케줄은 1시간 15분이 기준이며 실사 간 30분의 Term을 두고 진행 될 예정입니다.
+
+Group 3 : 일정
+
+9/11 (월)
+14:00-15:15 부대찌개&철판구이 김포롯데몰점
+15:45-17:00 공수간 고양종합터미널점
+
+9/12 (화)
+14:00-15:15 화덕족발 방이점
+15:45-17:00 보쌈 잠실점
+
+9/8 (금)
+15:30-16:50 옛날통닭 명일역점
+
+주식회사 놀부
+최 찬 드림
+
+Tel: 010-7795-8738
+E-mail: cchoi@iegkr.com
+
+---------------------------------
+
+--frontier
+Content-Type: text/html;
+charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<title>NBG</title>
+</head>
+<body>
+<p>안녕하세요.</p>
+<p>주식회사 놀부 구매팀 최찬입니다.</p></br>
+
+<p>매장 실사 일정을 보내드리오니 확인 부탁드리겠습니다.</p>
+<p>각 스케줄은 1시간 15분이 기준이며 실사 간 30분의 Term을 두고 진행 될 예정입니다.</p></br>
+
+<h4>Group 3 : 일정</h4></br>
+
+<h5>9/11 (월)</h5>
+<p>14:00-15:15 부대찌개&철판구이 김포롯데몰점</p>
+<p>15:45-17:00 공수간 고양종합터미널점</p></br>
+
+<h5>9/12 (화)</h5>
+<p>14:00-15:15 화덕족발 방이점</p>
+<p>15:45-17:00 보쌈 잠실점</p></br>
+
+<h5>9/8 (금)</h5>
+<p>15:30-16:50 옛날통닭 명일역점</p>
+
+<p>주식회사 놀부</p>
+<p>최 찬 드림</p></br>
+
+<p>Tel: 010-7795-8738</p>
+<p>E-mail: cchoi@iegkr.com</p>
+</body>
+</html>
+
+--frontier--

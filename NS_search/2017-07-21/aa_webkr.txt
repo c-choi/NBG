@@ -1,0 +1,100 @@
+{'display': 20,
+ 'items': [{'description': 'Monotype Imaging Inc. 에서 제공하는 폰트 변경 기능인Flipfont의 '
+                           '폰트 추가 설치 파일입니다.',
+            'link': 'https://play.google.com/store/apps/details?id=com.monotype.android.font.aa16yearsold&hl=ko',
+            'title': '<b>Aa</b>십육살™ 한국어 Flipfont - Google Play의 Android 앱'},
+           {'description': '얼만하죠? ',
+            'link': 'http://web.humoruniv.com/board/humor/read.html?table=otl&number=1672777',
+            'title': '(지식OTL) <b>aa</b>컵 크기는 - 행복한 유머, 웃긴대학에 오셨습니다 !!'},
+           {'description': ' Level Double-A Conformance to Web Content '
+                           'Accessibility Guidelines 1.0 Pages bearing this '
+                           'logo indicate a claim of conformance by the page '
+                           'author or content provider to conformance '
+                           'level... ',
+            'link': 'http://www.w3.org/WAI/WCAG1AA-Conformance',
+            'title': 'Level Double-A Conformance to'},
+           {'description': 'Monotype Imaging Inc. 에서 제공하는 폰트 변경 기능인Flipfont의 '
+                           '폰트 추가 설치 파일입니다.',
+            'link': 'https://play.google.com/store/apps/details?id=com.monotype.android.font.aaracoongulim&hl=ko',
+            'title': '<b>Aa</b>너구리굴림™ 한국어 Flipfont - Google Play의 Android 앱'},
+           {'description': 'View the basic <b>AA</b> stock chart on Yahoo '
+                           'Finance. Change the date range, chart type and '
+                           'compare Alcoa Corporation against other companies.',
+            'link': 'https://finance.yahoo.com/quote/AA?p=AA',
+            'title': '<b>AA</b> : Summary for Alcoa Corporation - Yahoo '
+                     'Finance'},
+           {'description': '혹시 <b>Aa</b> 착한남자체 무료로 다운 받을수 있는 곳 있나요? 제발 부탁드립니다 '
+                           'ㅠㅠㅠ 답변채택된 답변 <b>Aa</b>착한남자체 폰트는 유료폰트이며 폰트공유는 '
+                           '불법입니다. 반짝반짝* 동메달 총... ',
+            'link': 'http://tip.daum.net/question/91888777',
+            'title': '혹시 <b>Aa</b> 착한남자체 무료로 다운 받을수 있는 곳 있나요? 제발 부탁드립니다 ㅠ '},
+           {'description': '건전지 <b>AA</b>, 그리고 AAA의 차이를 모르겠네요',
+            'link': 'http://tip.daum.net/question/85110920',
+            'title': '알카라인 건전지 <b>AA</b>와 AAA의 차이가 무엇입니까? - Daum 팁'},
+           {'description': 'For each guideline, there are testablesuccess '
+                           'criteria, which are atthree levels: A, <b>AA</b>, '
+                           'and AAA. For a short summary of the WCAG 2.0 '
+                           'guidelines, seeWCAG 2.0 at a Glance. To learn '
+                           'about web... ',
+            'link': 'http://www.w3.org/WAI/intro/wcag',
+            'title': 'WCAG Overview | Web Accessibility Initiative (WAI) | '
+                     'W3C'},
+           {'description': '미리보기가 없음 다운로드 <b>aa</b>설렘주의.apk 로그인',
+            'link': 'https://docs.google.com/file/d/0B5o1qb3rDd6hSzBubjVQM0dDMGJpT1VDSVR4aWNBRnZia2tB/edit?pli=1',
+            'title': '<b>aa</b>설렘주의.apk - Google 드라이브'},
+           {'description': '배터리로 적외선 led와 기타 이것저것 구동하려고 하는데 일반적인 <b>AA</b>사이즈 '
+                           '배터리의 용량이 얼마나 되는지 궁금합니다. 아니면.<b>AA</b>사이즈 건전지 한개로 '
+                           'led(요구전압1.5v소모전류량 20mA) 한개를 대략 몇시간... ',
+            'link': 'http://playwares.com/qna/2563299',
+            'title': '질문과답변 - 알카라인 건전지 용량.궁금합니다.'},
+           {'description': '왕복 편도 다구간 AAdvantage Award 1.목적지 출발지: 도착지: 2. 검색 '
+                           '방법 근처 날짜 정확한 날짜 3. 탑승 날짜 가는 날짜 오는 날짜 4.승객 수 성인 '
+                           '(만12세 이상) 소아 (만2세-11세) 승객 정보 유아... ',
+            'link': 'https://www.american-airlines.co.kr/intl/kr/moresearch.jsp',
+            'title': 'Refine your search'},
+           {'description': '삼청동/북촌/한옥마을맛집 카페 <b>aA</b>는 레몬티,파인애플 잉글리쉬 '
+                           '파니니,카페라떼,레몬머랭타르트,아메리카노,자몽타르트를 잘하는 베스트 맛집으로 회식, 모임, '
+                           '데이트, 추천맛집 입니다.',
+            'link': 'https://www.siksinhot.com/P/135092',
+            'title': '카페 <b>aA</b>|삼청동/북촌/한옥마을맛집, 카페/디저트맛집'},
+           {'description': '국내 <b>AA</b> 4.1. 2차 창작계 4.2. 오리지널계 4.3. 관련 사이트 '
+                           '1.개요 [편집] <b>AA</b>를 이용해 그림을 표현하면서 글을... '
+                           "<b>AA</b>라는 '그림'이 있는 덕분에 소설이라기보다는 '만화'에 가까운 재미가 "
+                           '특징. 실제로 몇몇 사이트에서는... ',
+            'link': 'https://namu.wiki/w/AA%EC%9E%91%ED%92%88',
+            'title': '<b>AA</b>작품 - 나무위키'},
+           {'description': '항공편 이용과 관련하여 칭찬할 점, 걱정되는 점이나 문의 사항이 있을 경우 연락하는 방법',
+            'link': 'https://www.aa.com/i18n/customer-service/contact-american/customer-relations.jsp?locale=ko_KR',
+            'title': '고객 서비스 센터 − 아메리칸 항공에 문의 − 아메리칸 항공'},
+           {'description': '&amp;vq=hd720 &amp;vq=hd1080 &amp;vq=large ',
+            'link': 'https://www.youtube.com/channel/UC_Vk0Z_z9f3cYDNqibSKTGQ',
+            'title': '<b>AA</b> A'},
+           {'description': 'ana See the full definition…',
+            'link': 'https://www.merriam-webster.com/dictionary/aa',
+            'title': '<b>aa</b>'},
+           {'description': "<b>AA</b> Bondy's profile including the latest "
+                           'music, albums, songs, music videos and more '
+                           'updates.',
+            'link': 'https://myspace.com/aabondy',
+            'title': '<b>AA</b> Bondy | Listen and Stream Free Music, Albums, '
+                     'New Releases, Photos, Videos'},
+           {'description': '2011년 11월 03일 데뷔싱글 [미쳐서 그래]로 찾아온 '
+                           '더블에이(<b>AA</b>)‘더블에이(<b>AA</b>)’란 이름은 최고의 클래스를 '
+                           '의미하는 ‘A ’의 의미, 그리고 ‘A!(Awesome!)’라는 감탄사의 의미를 두 번 '
+                           '중첩하여 듣는 ‘A클래스’의 음악으 ',
+            'link': 'http://www.mnet.com/artist/212277/vods?gcode=2',
+            'title': '더블에이(<b>AA</b>) 영상 - 엠넷닷컴'},
+           {'description': '비탄의 아리아 <b>AA</b> 6.1. 등장인물 7. 비판 7.1. 왜곡 논란 7.2. '
+                           '고증오류... 비탄의 아리아 <b>AA</b>라는 외전 시리즈도 만화, 라이트 노벨... '
+                           '6.비탄의 아리아 <b>AA</b> [편집] 緋弾のアリア<b>AA</b> 공식 홈페이지 '
+                           '애니메이션 공식... ',
+            'link': 'https://namu.wiki/w/%EB%B9%84%ED%83%84%EC%9D%98%20%EC%95%84%EB%A6%AC%EC%95%84',
+            'title': '비탄의 아리아 - 나무위키'},
+           {'description': ' 번호 법인또는상호 소재지전화번호 소재지주소 1 얼룩(Urlook) 1034019701 '
+                           '서울특별시 금천구 서부샛길 606, 지하1층 B105-38호 (가산동, '
+                           '대성디폴리스지식산업센터) 2 (주)조아커머스 02 2039 8579... ',
+            'link': 'http://www.geumcheon.go.kr/inc/download.jsp?dirName=board/598/9/&fileName=%ED%86%B5%EC%8B%A0%ED%8C%90%EB%A7%A4%EB%AA%85%EB%8B%A8.xlsx&fileOrgName=%ED%86%B5%EC%8B%A0%ED%8C%90%EB%A7%A4%EB%AA%85%EB%8B%A8.xlsx',
+            'title': 'www.geumcheon.go.kr/inc/download.jsp?dirName=board/598/9/&amp;fileName=%ED%86%B5%EC%8B%A0%ED%8C%90%EB%A7%A4%E'}],
+ 'lastBuildDate': 'Fri, 21 Jul 2017 11:57:20 +0900',
+ 'start': 1,
+ 'total': 10667811}

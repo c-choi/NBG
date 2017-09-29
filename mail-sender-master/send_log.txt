@@ -1,0 +1,33 @@
+c.cloudy@me.com2017-09-06 09:09:37.691570
+c-choi@outlook.com2017-09-06 09:09:47.112975Success sending mail to: c.cloudy@me.com -- 2017-09-06 09:16:50.549297
+Success sending mail to: c-choi@outlook.com -- 2017-09-06 09:16:57.962850
+Success sending mail to: c-choi@outlook.com -- 2017-09-06 10:19:27.184426
+Success sending mail to: c.cloudy@me.com -- 2017-09-06 10:19:34.623833
+Success sending mail to: c-choi@outlook.com -- 2017-09-06 10:20:01.199365
+Success sending mail to: c.cloudy@me.com -- 2017-09-06 10:20:01.201101
+Success sending mail to: c-choi@outlook.com -- 2017-09-06 10:20:20.830489
+Success sending mail to: c.cloudy@me.com -- 2017-09-06 10:20:20.830804
+Success sending mail to: c-choi@outlook.com -- 2017-09-06 10:21:03.883783
+Success sending mail to: c.cloudy@me.com -- 2017-09-06 10:21:03.884070
+Success sending mail to: c-choi@outlook.com with custom_template -- 2017-09-06 10:22:00.991201
+Success sending mail to: c.cloudy@me.com with custom_template -- 2017-09-06 10:22:00.991613
+Success sending mail to: c-choi@outlook.com with email_template1.txt-- 2017-09-06 10:22:29.261925
+Success sending mail to: c.cloudy@me.com with email_template2.txt-- 2017-09-06 10:22:29.262169
+Success sending mail to: c-choi@outlook.com with email_template1.txt-- 2017-09-06 10:23:04.157212
+Success sending mail to: c.cloudy@me.com with email_template2.txt-- 2017-09-06 10:23:17.192705
+Success sending mail to: c-choi@outlook.com with email_template1.txt-- 2017-09-06 10:34:09.104073
+Success sending mail to: c.cloudy@me.com with email_template2.txt-- 2017-09-06 10:34:14.517233
+Success sending mail to: c-choi@outlook.com with email_template4.txt-- 2017-09-06 10:40:51.712569
+Success sending mail to: c.cloudy@me.com with email_template3.txt-- 2017-09-06 10:41:00.412097
+Success sending mail to: c-choi@outlook.com with email_template4.txt-- 2017-09-06 10:43:14.116736
+Success sending mail to: c.cloudy@me.com with email_template3.txt-- 2017-09-06 10:43:27.602708
+Success sending mail to: c-choi@outlook.com with email_template5.txt-- 2017-09-06 11:02:59.419227
+Success sending mail to: c.cloudy@me.com with email_template3.txt-- 2017-09-06 11:03:04.893595
+Success sending mail to: c-choi@outlook.com with email_template9.txt-- 2017-09-06 13:22:00.988458
+Success sending mail to: c-choi@outlook.com with email_template9.txt-- 2017-09-06 13:25:53.630187
+Success sending mail to: ckc6942@naver.com with email_template1.txt-- 2017-09-06 13:29:45.078107
+Success sending mail to: ksks73@naver.com with email_template1.txt-- 2017-09-06 13:29:50.491036
+Success sending mail to: jubang@naver.com with email_template2.txt-- 2017-09-06 13:29:55.837020
+Success sending mail to: yy365365@nate.com with email_template2.txt-- 2017-09-06 13:30:03.670697
+Success sending mail to: c-choi@outlook.com with email_template1.txt-- 2017-09-07 01:22:23.975902
+Success sending mail to: c.cloudy@me.com with email_template2.txt-- 2017-09-07 01:22:29.214279
